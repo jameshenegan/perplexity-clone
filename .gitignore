@@ -1,0 +1,58 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+perplexity-clone/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook configurations
+.jupyter/
+
+# Ignore Python-specific temporary files
+*.pyo
+*.~py
+
+# Ignore logs
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore VS Code specific settings (optional)
+.vscode/
+
+# Ignore local environment overrides (optional)
+.env.local
+.env.development
+.env.production
+
+# Ignore temporary files created by editors
+*.swp
+*~
