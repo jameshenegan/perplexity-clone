@@ -15,7 +15,7 @@ def get_openai_response_and_total_tokens(client, messages, model):
     chat_completion = client.chat.completions.create(
         messages=messages, model=model
     )
-    return chat_completion.choices[0].message.content, chat_completion.usage.total_tokens
+    return chat_completion.choices[0].message.content, chat_completion.usage.total_tokens, chat_completion.usage.completion_tokens, chat_completion.usage.prompt_tokens 
 
 def search_google(service, search_engine_id, query, num_results=5):
     """Search Google Custom Search API."""
