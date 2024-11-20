@@ -7,6 +7,16 @@ cd ../..
 python -m jupyterlab
 ```
 
+1. Select a query.
+2. Subit the query to Google.
+3. Store the URL's for the top K links returned from Google.
+4. Does SFBLIC's website appear in the top K links?  If not, replace the Kth link with SFBLIC.
+5. For each of the top K links,
+      - fetch the HTML associated with that link and then get the raw text from the HTML
+      - Use a refiner model to filter the raw text to text that is relevant to the query
+6. For each of the M "improvement methods" (e.g., include statistics, use more authoritative language), ask an improver model to either edit or augment the raw text for the SFBLIC site.
+      
+
 1. User submits query.
 2. Intelligent LLM "refiner" refines the query.
 3. Refined query gets submitted to Google.
