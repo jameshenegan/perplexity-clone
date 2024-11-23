@@ -49,17 +49,19 @@ The experiment appears to explore how systematic refinement and improvement of s
   - etc.
 - Each folder will have several files: one file per "response"
 
-- Declare a **Trial Number**
-- Select a **query** to use for the current trial.
+
+### Example Run
+- :white_check_mark: Declare a **Trial Number**
+- :white_check_mark:  Select a **query** to use for the current trial.
   - Example: Where to buy life insurance in Mississippi?
-- Submit the query to google
-- Store the response from Google in **InitialGoogleReponses**
-- Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
-- Retrieve the Updated Google Responses. For each of the top K links,
+- :white_check_mark:  Submit the query to google
+- :white_check_mark:  Store the response from Google in **InitialGoogleReponses**
+- :white_check_mark:  Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
+- :white_check_mark:  Retrieve the Updated Google Responses. For each of the top K links,
   - Fetch the HTML associated with the link
   - Get the raw text associated with the HTML
   - Store the raw text in RawTextFromHTML
-- For each element of raw text that was stored,
+- :white_check_mark:  For each element of raw text that was stored,
   - Use the **Website Refiner Model** to filter the raw text to the **refined text**: text that is relevant to the query
   - Store the response from the Website Refiner Model in **WebsiteRefinerModelResponses**.
 - Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
