@@ -461,3 +461,31 @@ of this amazing achievement!
 - Optimize performance for large-scale trials.
 
 This plan should provide a solid foundation for writing the program with an organized, scalable, and maintainable approach.
+
+```python
+from googleapiclient.discovery import build
+
+def create_google_service(api_key, search_engine_id):
+    """Create a Google Custom Search API service."""
+    return build("customsearch", "v1", developerKey=api_key), search_engine_id
+
+
+from bs4 import BeautifulSoup
+
+def parse_html(html_content):
+    """Parse HTML content and extract raw text."""
+    soup = BeautifulSoup(html_content, 'html.parser')
+    return soup.get_text()
+
+
+from dotenv import dotenv_values
+
+google_api_key = config['GOOGLE_API_KEY']
+search_engine_id = config['SEARCH_ENGINE_ID']
+
+google_service, search_id = create_google_service(google_api_key, search_engine_id)
+
+
+# Step 3: Refined query gets submitted to Google.
+search_results = search_google(google_service, search_id, query)
+```

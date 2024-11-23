@@ -6,6 +6,7 @@ def create_openai_client(api_key):
     """Create an OpenAI client."""
     return OpenAI(api_key=api_key)
 
+
 def create_google_service(api_key, search_engine_id):
     """Create a Google Custom Search API service."""
     return build("customsearch", "v1", developerKey=api_key), search_engine_id
