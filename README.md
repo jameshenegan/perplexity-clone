@@ -22,23 +22,23 @@ The purpose of the experiment is to **evaluate and optimize the visibility of SF
 
 ## Single Trial of Experiment
 
-- :white_check_mark: Declare a **Trial Number**
-- :white_check_mark: Select a **query** to use for the current trial.
-  - Example: Where to buy life insurance in Mississippi?
-- :white_check_mark: Submit the query to google
-- :white_check_mark: Store the response from Google in **InitialGoogleReponses**
-- :white_check_mark: Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
-- :white_check_mark: Retrieve the Updated Google Responses. For each of the top K links,
-  - Fetch the HTML associated with the link
-  - Get the raw text associated with the HTML
-  - Store the raw text in RawTextFromHTML
-- :white_check_mark: For each element of raw text that was stored,
-  - Use the **Website Refiner Model** to filter the raw text to the **refined text**: text that is relevant to the query
-  - Store the response from the Website Refiner Model in **WebsiteRefinerModelResponses**.
-- :white_check_mark: Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
-- :white_check_mark: For each of the M improvement methods,
-  - Use the **Improver Model** to either edit or augment the refined text associated with the SFBLIC website, along with the refined text for the other top K links.
-  - Store the results from the Improver model in **ImproverModelResponses**.
+- Declare a **Trial Number**
+- Select a **query** to use for the current trial.
+- Example: Where to buy life insurance in Mississippi?
+- Submit the query to google
+- Store the response from Google in **InitialGoogleReponses**
+- Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
+- Retrieve the Updated Google Responses. For each of the top K links,
+- Fetch the HTML associated with the link
+- Get the raw text associated with the HTML
+- Store the raw text in RawTextFromHTML
+- For each element of raw text that was stored,
+- Use the **Website Refiner Model** to filter the raw text to the **refined text**: text that is relevant to the query
+- Store the response from the Website Refiner Model in **WebsiteRefinerModelResponses**.
+- Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
+- For each of the M improvement methods,
+- Use the **Improver Model** to either edit or augment the refined text associated with the SFBLIC website, along with the refined text for the other top K links.
+- Store the results from the Improver model in **ImproverModelResponses**.
 - Prepare various (M+1) sets of **reference material** that will be sent to the **Writer Citer Model** in the next step.
   - One set will contain the original (unimproved) refined text associated with the SFBLIC website, along with the refined text for the other top K links.
   - Each of the other (M) sets will contain "improved" (i.e., edited or augmented) versions of the refined text associated with the SFBLIC website, along with the refined text for the other top K links
@@ -93,3 +93,11 @@ Links with additional information to pull from:
 - https://msfbins.com/products/life/
 - https://sfbli.com/aboutus
 - https://sfbli.com
+
+## Next Steps
+
+- Add additional improvement methods
+- Improve the way that results are stored
+- Come up with a set of queries
+- Come up with a better corpus of information
+- Figure out how to compute validity scores
