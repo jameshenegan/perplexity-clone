@@ -1,5 +1,4 @@
 from googleapiclient.discovery import build
-from bs4 import BeautifulSoup
 from dotenv import dotenv_values
 
 
@@ -36,20 +35,6 @@ class GoogleInteractor:
             q=query, cx=self.search_engine_id, num=num_results
         ).execute()
         return response
-
-    @staticmethod
-    def parse_html(html_content: str) -> str:
-        """
-        Parses HTML content and extracts raw text.
-        
-        Args:
-            html_content (str): The HTML content to parse.
-        
-        Returns:
-            str: Extracted text from the HTML.
-        """
-        soup = BeautifulSoup(html_content, 'html.parser')
-        return soup.get_text()
 
 
 # Example usage
