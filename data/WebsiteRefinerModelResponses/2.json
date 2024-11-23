@@ -1,13 +1,13 @@
 [
     {
-        "id": "chatcmpl-AWpJqrZIsmaTG7VH5Dk7aJoU4f84t",
+        "id": "chatcmpl-AWqF01SWvWNEDvpdDI3Z2Arya89MS",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a variety of life insurance products. Although specific products are not detailed in the text, the company focuses on providing competitive life insurance options for its Farm Bureau policyholders. For more information, visiting their website or contacting them directly would be advisable.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers competitive life insurance products. Specific details on the types of insurance products available are not provided in the text.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -16,15 +16,15 @@
                 }
             }
         ],
-        "created": 1732387130,
+        "created": 1732390674,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 55,
+            "completion_tokens": 28,
             "prompt_tokens": 231,
-            "total_tokens": 286,
+            "total_tokens": 259,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -35,17 +35,18 @@
                 "audio_tokens": 0,
                 "cached_tokens": 0
             }
-        }
+        },
+        "link": "https://www.sfbli.com/"
     },
     {
-        "id": "chatcmpl-AWpJr5kNpGySQpkIPFadMopALgaV5",
+        "id": "chatcmpl-AWqF1qTdYRE6xOg6sXafKtFSAd8mq",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "I'm unable to access the information you're requesting. Please check the official website of Southern Farm Bureau Life Insurance Company for information on the products they offer.",
+                    "content": "The document does not provide any information regarding the products offered by Southern Farm Bureau Life Insurance Company. Please refer to their official website or contact them directly for accurate details.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -54,15 +55,15 @@
                 }
             }
         ],
-        "created": 1732387131,
+        "created": 1732390675,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 29,
+            "completion_tokens": 33,
             "prompt_tokens": 48,
-            "total_tokens": 77,
+            "total_tokens": 81,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -73,17 +74,18 @@
                 "audio_tokens": 0,
                 "cached_tokens": 0
             }
-        }
+        },
+        "link": "https://w3.sfbcic.com/"
     },
     {
-        "id": "chatcmpl-AWpJsHQYuCG7o1oO3sb9ExRdVkvb2",
+        "id": "chatcmpl-AWqF11EgXh8j24nWeYXhFuIdTxdd5",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of life insurance products focused on serving the Farm Bureau family. However, specific product details are not provided in the content. For more information about their products, it would be best to contact them directly or visit their official website.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers various life insurance products, but specific product details weren't provided in the text. For more information about their offerings, it's recommended to visit their official website or contact their agent services.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -92,15 +94,15 @@
                 }
             }
         ],
-        "created": 1732387132,
+        "created": 1732390675,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 54,
+            "completion_tokens": 42,
             "prompt_tokens": 392,
-            "total_tokens": 446,
+            "total_tokens": 434,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -111,17 +113,18 @@
                 "audio_tokens": 0,
                 "cached_tokens": 0
             }
-        }
+        },
+        "link": "https://www.sfbli.com/loginregister"
     },
     {
-        "id": "chatcmpl-AWpJt6qDXsFtIE18zLPpr54oCv4JW",
+        "id": "chatcmpl-AWqF5rgMxSjSpxXUcoaZpO3cKpE7T",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of products, including:\n\n1. **Life Insurance**\n2. **Farm Insurance**\n3. **Business Insurance**\n4. **Umbrella Insurance**\n5. **Health Insurance**\n6. **Financial Services**\n7. **Palmetto Specialty Brokerage Services**\n\nAdditionally, they provide retirement planning and estate planning services.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers the following products:\n\n1. Life Insurance\n2. Farm Insurance\n3. Business Insurance\n4. Umbrella Insurance\n5. Health Insurance\n6. Financial Services\n7. Retirement Planning\n8. Estate Planning\n\nAdditionally, they provide various types of auto and property insurance, including homeowner, manufactured home, condo, renter, earthquake, fire, and flood insurance under their insurance services.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -130,53 +133,15 @@
                 }
             }
         ],
-        "created": 1732387133,
+        "created": 1732390679,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
-        "usage": {
-            "completion_tokens": 72,
-            "prompt_tokens": 633,
-            "total_tokens": 705,
-            "completion_tokens_details": {
-                "accepted_prediction_tokens": 0,
-                "audio_tokens": 0,
-                "reasoning_tokens": 0,
-                "rejected_prediction_tokens": 0
-            },
-            "prompt_tokens_details": {
-                "audio_tokens": 0,
-                "cached_tokens": 0
-            }
-        }
-    },
-    {
-        "id": "chatcmpl-AWpJuCV0GXI1rUIk0krNnx3t4UyJJ",
-        "choices": [
-            {
-                "finish_reason": "stop",
-                "index": 0,
-                "logprobs": null,
-                "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of insurance products, including:\n\n1. **Life Insurance** - Various types of life insurance policies to meet customer needs.\n2. **Annuities** - Investment products that provide a stream of income.\n3. **Disability Income Insurance** - Coverage that provides income in the event of a disability.\n\nThese products are designed to provide financial security and peace of mind to policyholders.",
-                    "refusal": null,
-                    "role": "assistant",
-                    "audio": null,
-                    "function_call": null,
-                    "tool_calls": null
-                }
-            }
-        ],
-        "created": 1732387134,
-        "model": "gpt-4o-mini-2024-07-18",
-        "object": "chat.completion",
-        "service_tier": null,
-        "system_fingerprint": "fp_3de1288069",
         "usage": {
             "completion_tokens": 86,
-            "prompt_tokens": 39,
-            "total_tokens": 125,
+            "prompt_tokens": 633,
+            "total_tokens": 719,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -187,6 +152,46 @@
                 "audio_tokens": 0,
                 "cached_tokens": 0
             }
-        }
+        },
+        "link": "https://www.scfbins.com/insurance/other-products/life-insurance"
+    },
+    {
+        "id": "chatcmpl-AWqF6nQmJ1qEQYsmG7rpJ8E597iKl",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Southern Farm Bureau Life Insurance Company offers a variety of products, including:\n\n1. Life Insurance\n   - Term Life Insurance\n   - Whole Life Insurance\n   - Universal Life Insurance\n\n2. Annuities\n   - Fixed Annuities\n   - Indexed Annuities\n\n3. Health Insurance\n   - Medicare Supplement Insurance\n\n4. Retirement Solutions\n   - Retirement Income Planning  \n\nThese products cater to different needs, including protection, savings, and retirement planning.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732390680,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 95,
+            "prompt_tokens": 39,
+            "total_tokens": 134,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.linkedin.com/company/southern-farm-bureau"
     }
 ]
