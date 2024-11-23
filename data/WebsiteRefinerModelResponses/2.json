@@ -1,13 +1,13 @@
 [
     {
-        "id": "chatcmpl-AWqWXVmdtQVXktNBeF5Z6JN3vcwX5",
+        "id": "chatcmpl-AWsczHV6gjcm2qgG44PCrGftZFSJC",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of life insurance products, focusing on competitive offerings for its policyholders. Specific products mentioned include:\n\n- Life Insurance\n- Health Plans\n- Behavioral Health Plans\n\nFor detailed product offerings, it is advisable to contact an agent or access their official website.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers various life insurance products. However, specific product details are not provided in the text. For more information, it is recommended to visit their official website or contact an agent.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -16,15 +16,15 @@
                 }
             }
         ],
-        "created": 1732391761,
+        "created": 1732399849,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 59,
+            "completion_tokens": 41,
             "prompt_tokens": 231,
-            "total_tokens": 290,
+            "total_tokens": 272,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -39,14 +39,14 @@
         "link": "https://www.sfbli.com/"
     },
     {
-        "id": "chatcmpl-AWqWYLJ1UprzYj4SD4lJNcXauYpJy",
+        "id": "chatcmpl-AWsd0ilFiOdffZ4voafv5em9TkKRX",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "The provided text does not contain relevant information regarding the products offered by Southern Farm Bureau Life Insurance Company. Please provide a different source or query for assistance.",
+                    "content": "The text does not provide any information about the products offered by Southern Farm Bureau Life Insurance Company. Please provide another source or more details for assistance.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -55,15 +55,15 @@
                 }
             }
         ],
-        "created": 1732391762,
+        "created": 1732399850,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 30,
+            "completion_tokens": 29,
             "prompt_tokens": 48,
-            "total_tokens": 78,
+            "total_tokens": 77,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -78,14 +78,14 @@
         "link": "https://w3.sfbcic.com/"
     },
     {
-        "id": "chatcmpl-AWqWcJ0XVbPsR8tjGMiDDuXA4tqXp",
+        "id": "chatcmpl-AWsd0MHizNm0LxUknUveOGYjFPlub",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of life insurance products and services. Their mission focuses on providing competitive products and superior customer service to policyholders. Specific product offerings include:\n\n- Life insurance policies\n- Health plans\n- Behavioral health plans\n\nFor more details, you may need to consult directly with the company or visit their website.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers various life insurance products, including:\n\n1. **Life Insurance Policies**: These are designed to provide financial protection to policyholders' beneficiaries.\n2. **Health Plans**: Includes medical insurance options.\n3. **Behavioral Health Plans**: Focuses on mental health coverage.\n\nTheir mission centers on providing competitive insurance products and superior customer service to their policyholders.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -94,15 +94,15 @@
                 }
             }
         ],
-        "created": 1732391766,
+        "created": 1732399850,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 68,
+            "completion_tokens": 80,
             "prompt_tokens": 392,
-            "total_tokens": 460,
+            "total_tokens": 472,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -117,14 +117,14 @@
         "link": "https://www.sfbli.com/loginregister"
     },
     {
-        "id": "chatcmpl-AWqWeA5W1tcbD5FpapcA4OLDGBsk8",
+        "id": "chatcmpl-AWsd1bbWALYMUV66FIfmIy13HRBaS",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers the following products:\n\n- Life Insurance\n- Farm Insurance\n- Business Insurance\n- Umbrella Insurance\n- Health Insurance\n- Financial Services\n- Retirement Planning\n- Estate Planning\n- Claims assistance\n\nThese products aim to provide financial protection and tailored solutions for individuals and families.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers the following products:\n\n1. **Life Insurance**\n2. **Farm Insurance**\n3. **Business Insurance**\n4. **Umbrella Insurance**\n5. **Health Insurance**\n6. **Financial Services**\n7. **Retirement Planning**\n8. **Estate Planning** \n\nTheir life insurance products provide financial protection for families in the event of a death, covering expenses such as final costs and education.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -133,15 +133,15 @@
                 }
             }
         ],
-        "created": 1732391768,
+        "created": 1732399851,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 63,
+            "completion_tokens": 87,
             "prompt_tokens": 633,
-            "total_tokens": 696,
+            "total_tokens": 720,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -156,14 +156,14 @@
         "link": "https://www.scfbins.com/insurance/other-products/life-insurance"
     },
     {
-        "id": "chatcmpl-AWqWfDfc8dFSZUuFS0i2itjK6Q20e",
+        "id": "chatcmpl-AWsd25BELGeDy7Cm76UghBukjwesO",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company offers a range of insurance products, including:\n\n1. **Life Insurance** - Various policies to provide financial protection for beneficiaries.\n2. **Annuities** - Investment products for retirement savings and income.\n3. **Health Insurance** - Options for medical coverage and related health benefits. \n\nPlease check their official resources for the most up-to-date product offerings.",
+                    "content": "Southern Farm Bureau Life Insurance Company offers a range of products, including:\n\n1. Life Insurance Policies\n   - Whole Life Insurance\n   - Term Life Insurance\n   - Universal Life Insurance\n\n2. Annuities\n   - Fixed Annuities\n   - Indexed Annuities\n\n3. Retirement Plans\n   - Individual Retirement Accounts (IRAs)\n\nThese products are designed to provide financial security for individuals and families.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -172,15 +172,15 @@
                 }
             }
         ],
-        "created": 1732391769,
+        "created": 1732399852,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 78,
+            "completion_tokens": 85,
             "prompt_tokens": 39,
-            "total_tokens": 117,
+            "total_tokens": 124,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
