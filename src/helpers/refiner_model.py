@@ -1,18 +1,17 @@
 from openai import OpenAI
-import json
 
 from helpers.serializer import Serializer
 
 
-class WebsiteRefinerModel:
+class RefinerModel:
     """
-    Uses an LLM (e.g., OpenAI GPT) to refine raw website text 
+    Uses an LLM (e.g., OpenAI GPT) to refine raw text 
     and extract information relevant to a query.
     """
 
     def __init__(self, api_key: str, model: str = "gpt-4o-mini"):
         """
-        Initializes the WebsiteRefinerModel with an OpenAI client and model.
+        Initializes the RefinerModel with an OpenAI client and model.
         
         Args:
             api_key (str): API key for OpenAI.

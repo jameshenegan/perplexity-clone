@@ -1,45 +1,16 @@
-# Perplexity Clone
+# Perplexity Experiment
 
 ## Purpose of Experiment
 
 The purpose of the experiment is to **evaluate and optimize the visibility of SFBLIC within generative search engine results.**
 
-Here’s a breakdown of the experiment's intent:
-
-### Key Goals:
-
-1. **Improve Visibility in Generative Search Results**:
-
-   - The experiment involves adding the SFBLIC link to the top K results if it is absent. This suggests a focus on ensuring the entity (SFBLIC) is prominently featured in search engine responses.
-
-2. **Enhance Content Relevance**:
-
-   - By refining the text from the top K links using the Website Refiner Model, the experiment aims to distill content that is highly relevant to the initial query. This ensures that the responses are not just visible but also useful.
-
-3. **Optimize Content Presentation**:
-
-   - Improvement methods applied by the Improver Model aim to augment or edit the refined text, likely to make it more engaging, informative, or appealing.
-
-4. **Test Content Impact on Query Response**:
-
-   - Through the Writer Citer Model, the experiment evaluates how different sets of reference materials (original vs. improved) affect the quality and visibility of responses for the SFBLIC website.
-
-5. **Measure Effectiveness**:
-   - The experiment computes a visibility score for SFBLIC across various iterations and scenarios, indicating a data-driven approach to measure and improve the entity's representation in search results.
-
-### Overall Purpose:
-
-The experiment appears to explore how systematic refinement and improvement of search engine results and associated content can increase the visibility, relevance, and influence of a specific entity (SFBLIC). It combines aspects of search engine optimization (SEO), natural language processing (NLP), and content enhancement to achieve this goal.
-
-## Preparing to run the Experiment
+## Steps to preparing to run the Experiment
 
 - Generate a collection of queries
 - Build a corpus of information
 - Identify improvement methods to use for experiment
 
-## Single Trial of Experiment
-
-**Comments on Storage**
+## Comments on Storage
 
 - When building the product out, I will save my responses as JSON files.
 - There will be several folders for storage:
@@ -47,24 +18,24 @@ The experiment appears to explore how systematic refinement and improvement of s
   - **UpdatedGoogleResponses**
   - **WebsiteRefinerModelResponses**
   - etc.
-- Each folder will have several files: one file per "response"
+- Each folder will have several files: one file per "trial"
 
+## Single Trial of Experiment
 
-### Example Run
 - :white_check_mark: Declare a **Trial Number**
-- :white_check_mark:  Select a **query** to use for the current trial.
+- :white_check_mark: Select a **query** to use for the current trial.
   - Example: Where to buy life insurance in Mississippi?
-- :white_check_mark:  Submit the query to google
-- :white_check_mark:  Store the response from Google in **InitialGoogleReponses**
-- :white_check_mark:  Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
-- :white_check_mark:  Retrieve the Updated Google Responses. For each of the top K links,
+- :white_check_mark: Submit the query to google
+- :white_check_mark: Store the response from Google in **InitialGoogleReponses**
+- :white_check_mark: Retrieve the stored InitialGoogleReponse. Check to see if SFBLIC is in the top K links. If not, add it. Store the results in **UpdatedGoogleResponses**.
+- :white_check_mark: Retrieve the Updated Google Responses. For each of the top K links,
   - Fetch the HTML associated with the link
   - Get the raw text associated with the HTML
   - Store the raw text in RawTextFromHTML
-- :white_check_mark:  For each element of raw text that was stored,
+- :white_check_mark: For each element of raw text that was stored,
   - Use the **Website Refiner Model** to filter the raw text to the **refined text**: text that is relevant to the query
   - Store the response from the Website Refiner Model in **WebsiteRefinerModelResponses**.
-- Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
+- :white_check_mark: Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
 - For each of the M improvement methods,
   - Use the **Improver Model** to either edit or augment the refined text associated with the SFBLIC website, along with the refined text for the other top K links.
   - Store the results from the Improver model in **ImproverModelResponses**.
