@@ -36,7 +36,7 @@ The purpose of the experiment is to **evaluate and optimize the visibility of SF
   - Use the **Website Refiner Model** to filter the raw text to the **refined text**: text that is relevant to the query
   - Store the response from the Website Refiner Model in **WebsiteRefinerModelResponses**.
 - :white_check_mark: Use the **Corpus Refiner Model** to filter the corpus to information that may be relevant to the query. Store the response in **CorpusRefinerModelResponses**.
-- For each of the M improvement methods,
+- :white_check_mark: For each of the M improvement methods,
   - Use the **Improver Model** to either edit or augment the refined text associated with the SFBLIC website, along with the refined text for the other top K links.
   - Store the results from the Improver model in **ImproverModelResponses**.
 - Prepare various (M+1) sets of **reference material** that will be sent to the **Writer Citer Model** in the next step.

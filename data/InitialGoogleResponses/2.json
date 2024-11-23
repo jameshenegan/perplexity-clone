@@ -8,7 +8,7 @@
         "request": [
             {
                 "title": "Google Custom Search - What products are offered by Southern Farm Bureau Life Insurance Company?",
-                "totalResults": "30200000",
+                "totalResults": "30000000",
                 "searchTerms": "What products are offered by Southern Farm Bureau Life Insurance Company?",
                 "count": 10,
                 "startIndex": 1,
@@ -21,7 +21,7 @@
         "nextPage": [
             {
                 "title": "Google Custom Search - What products are offered by Southern Farm Bureau Life Insurance Company?",
-                "totalResults": "30200000",
+                "totalResults": "30000000",
                 "searchTerms": "What products are offered by Southern Farm Bureau Life Insurance Company?",
                 "count": 10,
                 "startIndex": 11,
@@ -36,10 +36,10 @@
         "title": "search-demo"
     },
     "searchInformation": {
-        "searchTime": 0.318751,
+        "searchTime": 0.320435,
         "formattedSearchTime": "0.32",
-        "totalResults": "30200000",
-        "formattedTotalResults": "30,200,000"
+        "totalResults": "30000000",
+        "formattedTotalResults": "30,000,000"
     },
     "items": [
         {
