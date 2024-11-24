@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AX6XJVKeKIRedYzeTBuXcLGW7HoGv",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "Here are the relevant reasons to consider buying life insurance from Southern Farm Bureau:\n\n1. **Established History**: The company has been operating since 1946, focusing on the insurance needs of southern farmers and their families.\n\n2. **Product Variety**: Southern Farm Bureau offers a range of life insurance products:\n   - **Permanent Life Insurance**: Includes whole life and various premium options for lifelong coverage.\n   - **Term Life Insurance**: Provides cost-effective coverage for specific time intervals (10, 20, or 30 years).\n\n3. **Financial Planning Services**: They offer estate and retirement planning, tax-qualified retirement plans, and banking services.\n\n4. **Commitment to Service**: The company emphasizes superior customer support, competitive products, and adheres to high ethical standards.\n\n5. **Financial Stability**: They have an A+ (Superior) rating from A.M. Best, indicating strong financial stability and reliability in meeting obligations to policyholders.\n\n6. **Community Engagement**: Southern Farm Bureau participates in initiatives like Farm Bureau Cares, highlighting their commitment to community service and family protection.\n\n7. **Positive Outlook**: Recent updates from A.M. Best reflect a positive outlook for the company's financial health, indicating growth in individual life insurance lines and steady income trends. \n\nThis combination of product offerings, service commitment, financial strength, and community involvement positions Southern Farm Bureau as a compelling choice for life insurance.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732453313,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_3de1288069",
+    "usage": {
+        "completion_tokens": 287,
+        "prompt_tokens": 562,
+        "total_tokens": 849,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

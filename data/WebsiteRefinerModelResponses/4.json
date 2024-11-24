@@ -1,0 +1,197 @@
+[
+    {
+        "id": "chatcmpl-AX6WnVvAuWADNn7CP6yZDIFgfFmp9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "It seems there was an error in accessing the information. However, here are some reasons you might consider buying life insurance from Southern Farm Bureau:\n\n1. **Financial Security**: Southern Farm Bureau provides a safety net for your family in the event of unexpected circumstances.\n2. **Competitive Rates**: They may offer competitive premiums compared to other insurers.\n3. **Customizable Policies**: Options to tailor policies based on individual needs and financial goals.\n4. **Reputable Company**: Southern Farm Bureau has a strong reputation and history in the insurance industry.\n5. **Customer Service**: Known for quality customer support and personalized service.\n\nFor specific details, it's best to contact Southern Farm Bureau directly or visit their official website.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732453281,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_3de1288069",
+        "usage": {
+            "completion_tokens": 145,
+            "prompt_tokens": 47,
+            "total_tokens": 192,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://w3.sfbcic.com/"
+    },
+    {
+        "id": "chatcmpl-AX6WpwrBObbaeWILq1GQfAO3pCrc8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Southern Farm Bureau Life Insurance focuses on providing competitive life insurance products and superior customer service to its policyholders and agents. Key reasons to consider buying life insurance from them include their commitment to the Farm Bureau family, their ethical standards, and the availability of personalized support through agents.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732453283,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 54,
+            "prompt_tokens": 230,
+            "total_tokens": 284,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/"
+    },
+    {
+        "id": "chatcmpl-AX6WqB322ROtG0k1NhNPubuowGRj9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "I am unable to access the specific content regarding Southern Farm Bureau's life insurance. Generally, reasons to buy life insurance from a company like Southern Farm Bureau may include financial security for your family, customizable policy options, potential cash value accumulation, and a trusted reputation. For detailed information, please visit their official website or contact their representatives directly.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732453284,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 67,
+            "prompt_tokens": 47,
+            "total_tokens": 114,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.lafarmbureau.com/"
+    },
+    {
+        "id": "chatcmpl-AX6Wrl3tEx8aUy9JdNqkjvdgiiohY",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "I'm unable to access specific information about Southern Farm Bureau Life Insurance. Please visit their official website or contact them directly for detailed information on why you should consider purchasing life insurance from them.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732453285,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_3de1288069",
+        "usage": {
+            "completion_tokens": 36,
+            "prompt_tokens": 47,
+            "total_tokens": 83,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://msfbins.com/"
+    },
+    {
+        "id": "chatcmpl-AX6WseDpKPDWM8hdXv8cpqD274Zse",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "It appears there is no relevant information provided regarding why one should buy life insurance from Southern Farm Bureau. Please provide additional context or details for further assistance.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732453286,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 30,
+            "prompt_tokens": 47,
+            "total_tokens": 77,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://cfbinsurance.com/"
+    }
+]
