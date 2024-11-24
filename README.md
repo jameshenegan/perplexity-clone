@@ -35,11 +35,12 @@ Why should I buy Life Insurance from Southern Farm Bureau?
 
 ### **General Information About Life Insurance**
 
-1. What is life insurance, and why do I need it?
-2. How does life insurance work?
-3. What are the different types of life insurance policies?
-4. How is life insurance different from other types of insurance?
-5. Can I have more than one life insurance policy?
+1. What is life insurance?
+2. Why do I need life insurance?
+3. How does life insurance work?
+4. What are the different types of life insurance policies?
+5. How is life insurance different from other types of insurance?
+6. Can I have more than one life insurance policy?
 
 ### **Choosing the Right Policy**
 
@@ -199,3 +200,14 @@ Links with additional information to pull from:
 - https://msfbins.com/products/life/
 - https://sfbli.com/aboutus
 - https://sfbli.com
+
+## Get SFBLIC Info from Google
+
+```
+import json
+
+with open("../data/InitialGoogleResponses/3.json") as f:
+    sfblic_info = json.load(f)['items'][0]
+
+sfblic_info
+```

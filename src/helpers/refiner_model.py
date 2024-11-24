@@ -31,9 +31,19 @@ class RefinerModel:
         Returns:
             str: Refined text relevant to the query.
         """
+
+        system_content = f"""
+Filter the following text to information related to the query: {query}.  
+
+Only use what is available in the original raw text.  
+
+If the original raw text contains nothing that is relevant, then respond with the following message:
+
+'THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT'
+"""
         messages = [
-            {"role": "system", "content": f"Refine the following text and extract only relevant information related to the query: {query}"},
-            {"role": "user", "content": raw_text},
+            {"role": "system", "content": system_content},
+            {"role": "user", "content": f"Raw text: {raw_text}"},
         ]
         
         # Make API request
