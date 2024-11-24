@@ -1,0 +1,197 @@
+[
+    {
+        "id": "chatcmpl-AX9Hsl8gbNfJS9L0FQG2LUKsrxwcK",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732463888,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 893,
+            "total_tokens": 905,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.reddit.com/r/FinancialPlanning/comments/12vb4s6/do_any_of_you_have_life_insurance_and_is_there/"
+    },
+    {
+        "id": "chatcmpl-AX9HttR7YiqTeeP5Wie2cPuxrs6cQ",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Life insurance is important to help your loved ones with financial needs if you aren\u2019t there anymore. It considers factors such as your mortgage, other debts, income replacement, funeral costs, and education for your children. If you have a family that depends on your financial support or if you have a mortgage, term life insurance could be a sensible option. Permanent life insurance provides coverage for your entire life and may have investment features, but it typically costs more than term insurance.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732463889,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_3de1288069",
+        "usage": {
+            "completion_tokens": 93,
+            "prompt_tokens": 1075,
+            "total_tokens": 1168,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.tdi.texas.gov/tips/life-insurance.html"
+    },
+    {
+        "id": "chatcmpl-AX9HwnrzAM3wrG3BixMRFiaVco2EE",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Life insurance is important because it protects your spouse and children from potential financial losses if something were to happen to you. It provides financial security, helps cover debts, living expenses, and any medical or final expenses. \n\nSome key reasons to get life insurance include:\n\n1. **Guaranteed protection**: Life insurance acts as a financial safety net for dependents, providing a lump-sum payment upon death.\n2. **Income replacement**: It ensures that your family can pay for essential needs such as mortgage, childcare, education, and debts.\n3. **Tax-free benefit**: The death benefit is generally passed along to beneficiaries federal income tax-free.\n4. **Guaranteed cash value growth**: Whole life policies build cash value that grows tax-deferred, which can be used for various financial goals.\n5. **Dividend potential**: Whole life insurance may provide dividends that can be taken in cash or used to increase coverage.\n6. **Optional riders**: Additional protection options can be tailored to meet individual needs, such as coverage for disabilities or for children. \n\nOverall, life insurance gives peace of mind by providing a legacy for your loved ones and ensuring their financial stability.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732463892,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 235,
+            "prompt_tokens": 2806,
+            "total_tokens": 3041,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 2688
+            }
+        },
+        "link": "https://www.newyorklife.com/articles/six-reasons-to-buy-life-insurance"
+    },
+    {
+        "id": "chatcmpl-AX9Hzdis3ENWuSG5qqTWwDhbZ99mj",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732463895,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 945,
+            "total_tokens": 957,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.reddit.com/r/LifeInsurance/comments/171nrj4/what_are_the_benefits_of_life_insurance_and_when/"
+    },
+    {
+        "id": "chatcmpl-AX9I01nyCFVROZSLaO9SGcxyCPMM7",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732463896,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 272,
+            "total_tokens": 284,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/"
+    }
+]

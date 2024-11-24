@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AX9IDFSqFlEyelJjkPtkf7dq7Ze81",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "Life insurance is essential to ensure your loved ones are financially protected if you are no longer around. It helps cover debts like a mortgage, replaces your income, covers funeral expenses, and can even fund college for your children. Life insurance provides a financial safety net, ensuring that your family maintains their living standard and is not burdened by economic hardships. The payout your beneficiaries receive is generally tax-free, providing full benefits without additional financial strain. Life insurance gives peace of mind by securing a financial future for your loved ones, acting as a crucial part of financial planning.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732463909,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_45cf54deae",
+    "usage": {
+        "completion_tokens": 112,
+        "prompt_tokens": 472,
+        "total_tokens": 584,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}
