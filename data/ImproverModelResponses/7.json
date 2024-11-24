@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AX9QODm8dn10qNcXqxGpwZwShEG6p",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "Life insurance functions as a contract between an insurance company and a policyholder, in which the policyholder pays premiums in exchange for a financial payout to designated beneficiaries upon their death. If the policyholder dies while the policy is active, the beneficiaries can file a claim for the death benefit, which is often equivalent to the coverage amount. The beneficiaries can use the payout for any purpose, such as covering funeral costs, mortgage payments, or education expenses.\n\nLife insurance policies generally fall into two main categories: term and permanent. Term life insurance provides coverage for a specified period, and if the policyholder passes away during this term, the beneficiaries receive the death benefit. If they outlive the term, the policy expires. On the other hand, permanent life insurance offers lifelong coverage, provided the premiums continue to be paid, and includes types like whole, universal, and variable life insurance, which may include features such as cash value growth.\n\nBeneficiaries need to file a claim to receive the death benefits, submitting required documentation such as a certified death certificate. Once a valid claim is filed, the payout is typically issued within 30 to 60 days, with beneficiaries able to choose how to receive the benefits, whether as a lump sum, in installments, or through an account managed by the insurance company. Additional features, like policy riders, can be added for more customization, and the cost of life insurance varies based on several factors including age, health, and coverage amount.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732464416,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_7f6be3efb0",
+    "usage": {
+        "completion_tokens": 293,
+        "prompt_tokens": 649,
+        "total_tokens": 942,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

@@ -1,0 +1,197 @@
+[
+    {
+        "id": "chatcmpl-AX9Q6G8k95B9nycpHm0572OBkvjjx",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Life insurance works by allowing your beneficiaries to claim a financial payout (often equal to your coverage amount) after your death. If you pass away while the policy is active, your beneficiaries can file a claim for their portion of the payout, also called a death benefit. The payout can be used however your beneficiaries choose \u2014 to cover funeral costs, mortgage payments, education expenses, or anything else.\n\nSome life insurance policies have additional features; for example, certain policies have cash value that grows over time, potentially reducing your premium or increasing your death benefit. You can also add features to your policy by purchasing life insurance riders, such as a guaranteed insurability rider that allows you to add more coverage in the future without a medical exam.\n\nIn summary, it is a legally binding contract between you and your insurance company where maintaining premium payments and having an active policy at the time of your death enables your beneficiaries to receive the agreed payout.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464398,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_3de1288069",
+        "usage": {
+            "completion_tokens": 185,
+            "prompt_tokens": 2178,
+            "total_tokens": 2363,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 2048
+            }
+        },
+        "link": "https://www.progressive.com/answers/life-insurance-101/"
+    },
+    {
+        "id": "chatcmpl-AX9Q9zVYAT51AQXrVsZInO1LQtsZP",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Life insurance is a contract between an insurance company and policyholder. In exchange for a premium, the life insurance company agrees to pay a sum of money to one or more named beneficiaries upon the death of the policyholder. The purpose of life insurance is to help provide financial security to your loved ones upon your death. Some life policies also offer living benefits, meaning they can pay a part of the policy's death benefit while you are still alive, which can be useful if diagnosed with a covered chronic, critical, or terminal illness.\n\nThere are two main categories of life insurance: term and permanent.\n\n1. **Term Life Insurance**: Provides coverage for a set number of years (e.g., 10, 20, or 30 years). If the policyholder dies during the coverage period, benefits are paid to the beneficiaries. If the policyholder outlives the term, the policy expires.\n\n2. **Permanent Life Insurance**: This does not expire and covers the policyholder for their entire life, as long as premiums are paid. Three common types of permanent life insurance are:\n   - **Whole Life Insurance**: Builds cash value over time and does not have an expiration date.\n   - **Universal Life Insurance**: Also provides lifelong coverage and can build cash value, with flexibility in payment options.\n   - **Variable Life Insurance**: Similar to universal life but with the potential for increased cash value from certain subaccounts within the policy.\n\nLife insurance policies provide financial support to beneficiaries after the policyholder's death. Beneficiaries must file a claim to receive benefits, which typically requires verification of the policyholder's death and proof of the beneficiary's identity and relationship to the deceased. Payment is usually made within 30-60 days after a valid claim is filed. Options for receiving payment include a lump sum, installments, or other methods.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464401,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 373,
+            "prompt_tokens": 1921,
+            "total_tokens": 2294,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 1792
+            }
+        },
+        "link": "https://www.libertymutual.com/insurance-resources/life/how-does-life-insurance-work"
+    },
+    {
+        "id": "chatcmpl-AX9QGRnhwc9W5HKPyf8r8irdcaazu",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464408,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 859,
+            "total_tokens": 871,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.reddit.com/r/explainlikeimfive/comments/11qijwj/eli5_how_does_life_insurance_make_sense_like_how/"
+    },
+    {
+        "id": "chatcmpl-AX9QGHR69BsR3uFVldGr5eAEfZLUa",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464408,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 100,
+            "total_tokens": 112,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.prudential.com/personal/life-insurance/life-insurance-101/what-is-life-insurance"
+    },
+    {
+        "id": "chatcmpl-AX9QHbQ9xlSdK5aZbiaJ1HqqiOL9b",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464409,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 271,
+            "total_tokens": 283,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/"
+    }
+]

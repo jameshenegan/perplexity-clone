@@ -1,0 +1,197 @@
+[
+    {
+        "id": "chatcmpl-AX9UjvvmpuqDdIaX4zeDA3pORll0D",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "There are five main types of life insurance:\n\n1. **Term life insurance**: Provides coverage for a set number of years; generally more affordable.\n2. **Whole life insurance**: A type of permanent life insurance that provides coverage for your entire lifetime and includes a savings component that builds cash value.\n3. **Universal life insurance**: Another permanent life insurance option that offers more flexibility, allowing adjustments to death benefits and premiums.\n4. **Variable life insurance**: A permanent life insurance policy where cash value rises and falls based on the performance of selected investments.\n5. **Final expense life insurance**: A type of whole life insurance designed to cover end-of-life expenses, typically offering a smaller and more affordable death benefit.\n\nOther types mentioned include indexed universal life insurance, simplified issue life insurance, instant life insurance, guaranteed life insurance, supplemental life insurance, survivorship life insurance, decreasing term life insurance, and AD&D insurance.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464685,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 188,
+            "prompt_tokens": 2811,
+            "total_tokens": 2999,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.progressive.com/answers/life-insurance-types/"
+    },
+    {
+        "id": "chatcmpl-AX9UmEVtlJcV6G5hb2QGZj036Z6A8",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Types Of Life Insurance Policies include:\n\n1. **Term Insurance**: Provides protection for a specified period, such as 1, 5, 10, 20 years, or to a certain age. Premiums are lower at younger ages but increase as you age, and there is no cash value. Types of Term Insurance include:\n   - Renewable Term\n   - Convertible Term\n   - Level or Decreasing Term\n   - Adjustable Premium\n\n2. **Permanent Insurance (Whole Life or Ordinary Life)**: Offers coverage for a lifetime and includes a cash value component. Variations include:\n   - Traditional Whole Life\n     - Non-Participating Whole Life\n     - Participating Whole Life\n     - Indeterminate Premium Whole Life\n     - Economatic Whole Life\n     - Limited Payment Whole Life\n     - Single Premium Whole Life\n   - Interest Sensitive Whole Life\n     - Universal Life\n     - Excess Interest Whole Life\n     - Current Assumption Whole Life\n     - Single Premium Whole Life\n\n3. **Variable Life**: Can be purchased on a fixed-dollar or variable basis, where cash value depends on investment results.\n\n4. **Other Coverages**: Variations include:\n   - Credit Life Insurance\n   - Monthly Debit Ordinary Insurance\n   - Modified Life Plan\n   - Family Policy\n   - Joint Life and Survivor Insurance\n   - Joint Life Insurance\n   - Endowment Insurance\n   - Juvenile Insurance\n   - Senior Life Plans\n   - Pre-need Insurance",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464688,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 305,
+            "prompt_tokens": 5176,
+            "total_tokens": 5481,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.dfs.ny.gov/consumers/life_insurance/types_of_policies"
+    },
+    {
+        "id": "chatcmpl-AX9UsBQ8eL9Uef5d7uRMvUoHAq04u",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Different Types of Life Insurance Policies:\n\n1. **Whole Life Insurance**: Permanent coverage that lasts your entire life and pays a benefit upon death. It may be more expensive but offers long-term financial security.\n\n2. **Term Life Insurance**: A temporary policy providing coverage for a specific time (e.g., 10, 20, or 30 years). The benefit is paid only if the policyholder passes during this term. It can be a more affordable option.\n\n3. **Universal Life Insurance**: A permanent policy with an investment component that allows cash value to grow in a tax-deferred account. It offers flexibility in premium payments and benefit values.\n\n4. **Final Expense Insurance**: A type of permanent life policy that provides a smaller death benefit to cover end-of-life costs like funerals and medical bills.\n\n5. **Group Life Insurance**: A policy offered by employers to provide life insurance benefits for employees or members of an organization, available in term or whole life insurance options.\n\n6. **Variable Life Insurance**: A permanent policy where cash value is tied to investment accounts, fluctuating based on investment performance.\n\n7. **Credit Life Insurance**: Designed to help pay off debts like mortgages or car loans if the policyholder passes before repayment.\n\n8. **Simplified Issue Life Insurance**: Allows quicker coverage approval based on a health questionnaire rather than a medical exam.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464694,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 280,
+            "prompt_tokens": 3797,
+            "total_tokens": 4077,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.aflac.com/resources/life-insurance/types-of-life-insurance.aspx"
+    },
+    {
+        "id": "chatcmpl-AX9Uw4afKipQqd3GDNKgHXXPjXtZA",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Different types of life insurance policies include:\n\n1. **Term Life Insurance**: Coverage for a specific term or length of time, typically between 10 and 30 years. It pays a death benefit if the insured dies during the term but has no cash value.\n\n2. **Whole Life Insurance**: A type of permanent insurance that provides coverage for your entire life, includes a cash value component that grows over time on a tax-deferred basis, has level premiums, and guarantees both the death benefit and cash values.\n\n3. **Universal Life Insurance**: Another form of permanent insurance that offers flexible premiums and lifetime coverage along with a cash value component.\n\n4. **Final Expense Insurance**: Intended to cover end-of-life expenses like funeral and burial costs, with no cash value component.\n\n5. **Simplified Issue and Guaranteed Issue Life Insurance**: Policies that do not require a medical exam, often aimed at older applicants or those with serious health problems.\n\n6. **Group Life Insurance**: Life insurance purchased as part of a group, typically through an employer, often at lower rates, with most being term policies.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464698,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_3de1288069",
+        "usage": {
+            "completion_tokens": 225,
+            "prompt_tokens": 3744,
+            "total_tokens": 3969,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.guardianlife.com/life-insurance/types"
+    },
+    {
+        "id": "chatcmpl-AX9UzuoxgSvUV6KGp82xPAWbOgbaY",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732464701,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 275,
+            "total_tokens": 287,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/"
+    }
+]

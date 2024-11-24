@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AX9QIYmjn4lhghlg3ueWcC5LJs753",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "Life insurance works by allowing your beneficiaries to claim a financial payout (often equal to your coverage amount) after your death. If you pass away while the policy is active, your beneficiaries can file a claim for their portion of the payout, also called a death benefit. The payout can be used however your beneficiaries choose \u2014 to cover funeral costs, mortgage payments, education expenses, or anything else.\n\nSome life insurance policies have additional features, such as cash value that grows over time, potentially reducing your premium or increasing your death benefit. You can also add features to your policy by purchasing life insurance riders, like a guaranteed insurability rider, which lets you add more coverage in the future without needing another medical exam.\n\nThere are different types of life insurance policies, including term life insurance, which lasts for a set number of years and pays out only if you pass away during that term, and permanent life insurance, which lasts your entire lifetime and pays out no matter when you pass away, provided you keep paying your premium.\n\nLife insurance is a contract between an insurance company and the policyholder. In exchange for a premium, the life insurance company agrees to pay a sum of money to one or more named beneficiaries upon the death of the policyholder. The purpose of life insurance is to provide financial security to your loved ones upon your death.\n\nThere are two main categories of life insurance policies: term and permanent.\n\n1. **Term Life Insurance**: Provides coverage for a specific period (e.g., 10, 20, or 30 years). If the policyholder dies during the coverage period, the beneficiaries receive the death benefit. If they outlive the term, the policy expires.\n\n2. **Permanent Life Insurance**: Provides coverage for the policyholder's whole life, as long as premiums are paid. It includes types such as:\n   - **Whole Life Insurance**: Does not expire and includes a cash value component.\n   - **Universal Life Insurance**: Offers lifetime coverage with flexible premium payment options and cash value growth.\n   - **Variable Life Insurance**: Includes cash value that can grow based on the performance of certain subaccounts.\n\nWhen choosing a life insurance policy, consider factors like the amount of coverage needed, your budget, and the types of available policy riders. The cost of a life insurance policy varies based on type, age, health, desirable coverage amount, and occupation.\n\nBeneficiaries must file a claim to receive death benefits, including submitting necessary documentation, such as a certified death certificate and proof of identity. Payments are usually issued within 30 to 60 days after a valid claim is filed. Beneficiaries can choose to receive their benefits as a lump sum, installments, or through an account managed by the insurance company.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732464410,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_0705bf87c0",
+    "usage": {
+        "completion_tokens": 552,
+        "prompt_tokens": 1648,
+        "total_tokens": 2200,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}
