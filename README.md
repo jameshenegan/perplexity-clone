@@ -1,5 +1,25 @@
 # Perplexity Experiment
 
+## Development
+
+### Activate the virtual environment and open JupyterLab
+
+```
+cd perplexity-clone/bin
+source activate
+cd ../..
+python -m jupyterlab
+```
+
+## Next Steps
+
+- Add additional improvement methods
+- Improve the way that results are stored
+- Improve the way that results are accessed and presented
+- Come up with a set of queries
+- Come up with a better corpus of information
+- Figure out how to compute visibility scores
+
 ## Purpose of Experiment
 
 The purpose of the experiment is to **evaluate and optimize the visibility of SFBLIC within generative search engine results.**
@@ -50,15 +70,6 @@ The purpose of the experiment is to **evaluate and optimize the visibility of SF
   - Compute a visibility score for SFBLIC
   - Store the result in **SfblicVisibilityScores**
 
-## Activate the virtual environment and open JupyterLab
-
-```
-cd perplexity-clone/bin
-source activate
-cd ../..
-python -m jupyterlab
-```
-
 ## Requirements
 
 ```
@@ -93,11 +104,3 @@ Links with additional information to pull from:
 - https://msfbins.com/products/life/
 - https://sfbli.com/aboutus
 - https://sfbli.com
-
-## Next Steps
-
-- Add additional improvement methods
-- Improve the way that results are stored
-- Come up with a set of queries
-- Come up with a better corpus of information
-- Figure out how to compute validity scores
