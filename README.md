@@ -11,18 +11,22 @@ cd ../..
 python -m jupyterlab
 ```
 
+## Computing Visibility Scores
+
+Given
+
+- a set of reference material
+- a response from the writer citer model
+  compute a visibility score for SFBLIC in the response from the writer citer model.
+
+Figure out which number corresponds to SFBLIC.
+
 ## Next Steps
 
-- If SFBLIC does not appear in the top K links, then add it
-- Store the responses from the Writer Citer Model
 - Add additional improvement methods
-- Improve the way that results are stored
-- Improve the way that results are accessed and presented
-- Come up with a set of queries
-- Come up with a better corpus of information
+- Improve the way that results are stored, accessed, and presented
 - Figure out how to compute visibility scores
 - Make it easier to identify the SFBLIC site
-- Make sure you get information that is from the website only. use no other information.
 - Only consider sites that have information relevant to the query
 
 ## queries
