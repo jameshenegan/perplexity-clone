@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AXEeEa7kJUO0AoK91iyHgF9EdMVoJ",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "**Key Differences Between Term and Whole Life Insurance:**\n\n1. **Cost**:\n   - **Term Life Insurance**: Lower premiums.\n   - **Whole Life Insurance**: Higher premiums.\n\n2. **Coverage Length**:\n   - **Term Life Insurance**: Lasts for a set period (typically 10 to 30 years).\n   - **Whole Life Insurance**: Provides lifelong coverage as long as premiums are paid.\n\n3. **Cash Value**:\n   - **Term Life Insurance**: Does not build cash value.\n   - **Whole Life Insurance**: Includes a cash value savings component that builds over time.\n\n4. **Complexity**:\n   - **Term Life Insurance**: Straightforward coverage with fixed premiums and death benefits.\n   - **Whole Life Insurance**: More complex, as the death benefit amount can change with outstanding loans against cash value.\n\nIn summary, term life insurance is simpler and more affordable but has an expiration date and no cash value feature, while whole life insurance is more expensive, complex, and provides lifelong coverage that accumulates cash value over time.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732484494,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_0705bf87c0",
+    "usage": {
+        "completion_tokens": 221,
+        "prompt_tokens": 3794,
+        "total_tokens": 4015,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}

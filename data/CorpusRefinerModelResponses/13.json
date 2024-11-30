@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AXEkV00jzvTbFvqa9vehBJjF4R2yq",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "When term life insurance expires, it typically ends without any action needed from the policyholder. The insurance carrier sends a notice, premiums stop, and there is no longer a death benefit. If the policy had a return-of-premium feature, the policyholder might receive a check for the premiums paid during the term.\n\nSome term policies offer the option to renew on a year-by-year basis after the initial term expires, maintaining the original coverage amount but usually at a higher cost due to age-related risk increases. Additionally, many term policies include a conversion rider that allows the policyholder to convert the term policy into a permanent policy without going through underwriting again, although this option may have specific time restrictions.\n\nIf coverage is still needed after the term expires, individuals can evaluate their options, such as converting their policy if they have a conversion rider, renewing their term policy, buying a new term policy, or purchasing a permanent policy. However, permanent life insurance is generally more expensive than term insurance. Factors to consider when determining whether you need life insurance after your term policy expires include whether you have dependents, outstanding debts, business obligations, and your financial stability.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1732484883,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_0705bf87c0",
+    "usage": {
+        "completion_tokens": 230,
+        "prompt_tokens": 4783,
+        "total_tokens": 5013,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 4608
+        }
+    }
+}

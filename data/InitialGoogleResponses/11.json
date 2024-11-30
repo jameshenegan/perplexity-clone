@@ -1,0 +1,399 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - What factors should I consider when choosing my coverage amount for my life insurance?",
+                "totalResults": "291000000",
+                "searchTerms": "What factors should I consider when choosing my coverage amount for my life insurance?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "b17bc7cb6e2024dc6"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - What factors should I consider when choosing my coverage amount for my life insurance?",
+                "totalResults": "291000000",
+                "searchTerms": "What factors should I consider when choosing my coverage amount for my life insurance?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "b17bc7cb6e2024dc6"
+            }
+        ]
+    },
+    "context": {
+        "title": "search-demo"
+    },
+    "searchInformation": {
+        "searchTime": 0.397399,
+        "formattedSearchTime": "0.40",
+        "totalResults": "291000000",
+        "formattedTotalResults": "291,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "How much life insurance do you need? | Guardian",
+            "htmlTitle": "How much <b>life insurance do</b> you need? | Guardian",
+            "link": "https://www.guardianlife.com/life-insurance/how-much-life-insurance-do-you-need",
+            "displayLink": "www.guardianlife.com",
+            "snippet": "... factors to consider when making a detailed estimate of your life insurance needs: ... The amount of life insurance coverage you get should be enough to\u00a0...",
+            "htmlSnippet": "... <b>factors to consider</b> when making a detailed <b>estimate</b> of <b>your life insurance</b> needs: ... The <b>amount</b> of <b>life insurance coverage</b> you get <b>should</b> be enough <b>to</b>&nbsp;...",
+            "formattedUrl": "https://www.guardianlife.com/life-insurance/how-much-life-insurance-do-y...",
+            "htmlFormattedUrl": "https://www.guardian<b>life</b>.com/<b>life</b>-<b>insurance</b>/how-much-<b>life</b>-<b>insurance</b>-do-y...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVRLQT684yY98h2qFBibVxPfU22vnRvYsLp-QxmzGGzPlQhz78Hk253It&s",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "GuardianLife",
+                        "og:image": "https://images.ctfassets.net/gau1nv66ynug/2zPm6aDGPJh1xQGDBpxoOg/569d56051d772ef779481e37686eaf1e/woman-on-her-phone-at-the-airport.jpg",
+                        "theme-color": "#000000",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "How much life insurance do you need? | Guardian",
+                        "apple-mobile-web-app-title": "GuardianLife",
+                        "og:title": "How much life insurance do you need? | Guardian",
+                        "og:description": "Life Insurance coverage is an important part of everyone\u2019s financial plan \u2013 but not everyone needs the same life insurance coverage. This article explains why.",
+                        "twitter:creator": "@guardianlife",
+                        "twitter:image": "https://images.ctfassets.net/gau1nv66ynug/2zPm6aDGPJh1xQGDBpxoOg/569d56051d772ef779481e37686eaf1e/woman-on-her-phone-at-the-airport.jpg",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Life Insurance coverage is an important part of everyone\u2019s financial plan \u2013 but not everyone needs the same life insurance coverage. This article explains why.",
+                        "og:url": "https://www.guardianlife.com/life-insurance/how-much-life-insurance-do-you-need",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.ctfassets.net/gau1nv66ynug/2zPm6aDGPJh1xQGDBpxoOg/569d56051d772ef779481e37686eaf1e/woman-on-her-phone-at-the-airport.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Understanding Your Deductible | Department of Insurance, SC ...",
+            "htmlTitle": "Understanding <b>Your</b> Deductible | Department of <b>Insurance</b>, SC ...",
+            "link": "https://doi.sc.gov/1019/Understanding-Your-Deductible",
+            "displayLink": "doi.sc.gov",
+            "snippet": "A deductible is the amount of money that the insured person must pay before their insurance policy starts paying for covered expenses.",
+            "htmlSnippet": "A deductible is the <b>amount</b> of money that the <b>insured</b> person <b>must</b> pay before <b>their insurance</b> policy starts paying for <b>covered</b> expenses.",
+            "formattedUrl": "https://doi.sc.gov/1019/Understanding-Your-Deductible",
+            "htmlFormattedUrl": "https://doi.sc.gov/1019/Understanding-Your-Deductible",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "category2": "Public Information & Media",
+                        "category3": "Insurance Matters",
+                        "category4": "Understanding Your Deductible",
+                        "theme-color": "#325581",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "category0": "Home",
+                        "category1": "About Us"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Virginia SCC - Virginia Homeowners Insurance Guide",
+            "htmlTitle": "Virginia SCC - Virginia Homeowners <b>Insurance</b> Guide",
+            "link": "https://www.scc.virginia.gov/pages/Virginia-Homeowners-Insurance-Guide",
+            "displayLink": "www.scc.virginia.gov",
+            "snippet": "Jun 10, 2024 ... Some of the factors that you should consider when buying homeowners insurance ... Things to Consider When Choosing Your Policy Limits If You Own\u00a0...",
+            "htmlSnippet": "Jun 10, 2024 <b>...</b> Some of the <b>factors</b> that you <b>should consider</b> when <b>buying</b> homeowners <b>insurance</b> ... Things <b>to Consider</b> When <b>Choosing Your</b> Policy <b>Limits</b> If You Own&nbsp;...",
+            "formattedUrl": "https://www.scc.virginia.gov/pages/Virginia-Homeowners-Insurance-Guide",
+            "htmlFormattedUrl": "https://www.scc.virginia.gov/pages/Virginia-Homeowners-<b>Insurance</b>-Guide",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+                        "width": "224",
+                        "height": "224"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "division": "BOI",
+                        "persona": "Consumer",
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Do You Have Enough Life Insurance? | , Reno NV | Wells Fargo ...",
+            "htmlTitle": "<b>Do</b> You Have Enough <b>Life Insurance</b>? | , Reno NV | Wells Fargo ...",
+            "link": "https://fa.wellsfargoadvisors.com/alonso-foy-wmg/Do-You-Have-Enough-Life-Insurance.c10282.htm",
+            "displayLink": "fa.wellsfargoadvisors.com",
+            "snippet": "Once you determine the total amount of your family's needs, you should consider ... Here are some factors to consider when choosing a life insurance policy. 1\u00a0...",
+            "htmlSnippet": "Once you determine the total <b>amount</b> of <b>your</b> family&#39;s needs, you <b>should consider</b> ... Here are some <b>factors to consider</b> when <b>choosing</b> a <b>life insurance</b> policy. 1&nbsp;...",
+            "formattedUrl": "https://fa.wellsfargoadvisors.com/.../Do-You-Have-Enough-Life-Insurance....",
+            "htmlFormattedUrl": "https://fa.wellsfargoadvisors.com/.../Do-You-Have-Enough-<b>Life</b>-<b>Insurance</b>....",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_KNX1r73Nl92VNmu6_wvBMijXo9GFSKNzzRdRY4Uw-ycEEcD2WT41sA&s",
+                        "width": "514",
+                        "height": "98"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://fa.wellsfargoadvisors.com/alonso-foy-wmg/mediahandler/dynamicmedia/358832/alonso_foywmg_logo_broadridge.png",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Alonso & Foy Wealth Management Group of Wells Fargo Advisors, Reno NV",
+                        "og:site_name": "Alonso & Foy Wealth Management Group of Wells Fargo Advisors",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:url": "http://fa.wellsfargoadvisors.com/alonso-foy-wmg/",
+                        "og:title": "Alonso & Foy Wealth Management Group of Wells Fargo Advisors, Reno NV",
+                        "og:url": "https://fa.wellsfargoadvisors.com/alonso-foy-wmg/",
+                        "twitter:image": "https://fa.wellsfargoadvisors.com/alonso-foy-wmg/mediahandler/dynamicmedia/358832/alonso_foywmg_logo_broadridge.png"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://fa.wellsfargoadvisors.com/alonso-foy-wmg/mediahandler/dynamicmedia/358832/alonso_foywmg_logo_broadridge.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Consumer Life Insurance FAQ | Department of Financial Services",
+            "htmlTitle": "Consumer <b>Life Insurance</b> FAQ | Department of Financial Services",
+            "link": "https://www.dfs.ny.gov/faqs/consumer_faqs/life_insurance?page=1",
+            "displayLink": "www.dfs.ny.gov",
+            "snippet": "... life, universal life and variable universal life. What factors should I consider when selecting a life insurance company? +. There are two types of life\u00a0...",
+            "htmlSnippet": "... life, universal life and variable universal life. What <b>factors should</b> I <b>consider</b> when <b>selecting</b> a <b>life insurance</b> company? +. There are two types of life&nbsp;...",
+            "formattedUrl": "https://www.dfs.ny.gov/faqs/consumer_faqs/life_insurance?page=1",
+            "htmlFormattedUrl": "https://www.dfs.ny.gov/faqs/consumer_faqs/<b>life</b>_<b>insurance</b>?page=1",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "twitter:card": "summary_large_image",
+                        "twitter:image:alt": "NYDFS Seal",
+                        "og:site_name": "Department of Financial Services",
+                        "twitter:site": "@NYDFS",
+                        "og:image:url": "https://www.dfs.ny.gov//profiles/custom/webny/themes/custom/dfs_ny/images/FeaturedCards-horizontalline.jpg",
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:title": "Consumer Life Insurance FAQ",
+                        "mobileoptimized": "width",
+                        "twitter:image": "https://www.dfs.ny.gov//profiles/custom/webny/themes/custom/dfs_ny/images/FeaturedCards-horizontalline.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Life Insurance Guide",
+            "htmlTitle": "<b>Life Insurance</b> Guide",
+            "link": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/07-life/life-ins-guide.cfm",
+            "displayLink": "www.insurance.ca.gov",
+            "snippet": "Choose the type of life insurance policy that meets your coverage goals and current family budget. Fitting these two factors together will move you toward a\u00a0...",
+            "htmlSnippet": "<b>Choose</b> the type of <b>life insurance</b> policy that meets <b>your coverage</b> goals and current family budget. Fitting these two <b>factors</b> together <b>will</b> move you toward a&nbsp;...",
+            "formattedUrl": "https://www.insurance.ca.gov/01-consumers/105...life/life-ins-guide.cfm",
+            "htmlFormattedUrl": "https://www.<b>insurance</b>.ca.gov/01-consumers/105...<b>life</b>/<b>life</b>-ins-guide.cfm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67_rn76cB2NASlBZCDWhvDRwBRbdmbfo5spWR7m02yrOT9mmxhHqJUQHl&s",
+                        "width": "300",
+                        "height": "130"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "True",
+                        "viewport": "width=device-width, target-densitydpi=160dpi, initial-scale=1.0",
+                        "author": "State of California",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.insurance.ca.gov/images/santabarbara/header_ca.gov.png?new"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "LIFE, ANNUITIES & LONG-TERM CARE",
+            "htmlTitle": "<b>LIFE</b>, ANNUITIES &amp; LONG-TERM CARE",
+            "link": "https://insurance.ks.gov/documents/department/publications/life-annuities-LTC-shoppers-guide.pdf",
+            "displayLink": "insurance.ks.gov",
+            "snippet": "... factors to consider when determining how much life insurance you should have. ... Optional features could be added to your policy and most will add to the cost of\u00a0...",
+            "htmlSnippet": "... <b>factors to consider</b> when determining how much <b>life insurance</b> you <b>should</b> have. ... Optional features <b>could</b> be added <b>to your</b> policy and most <b>will</b> add <b>to</b> the <b>cost</b> of&nbsp;...",
+            "formattedUrl": "https://insurance.ks.gov/documents/.../life-annuities-LTC-shoppers-guide.p...",
+            "htmlFormattedUrl": "https://<b>insurance</b>.ks.gov/documents/.../<b>life</b>-annuities-LTC-shoppers-guide.p...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "moddate": "D:20240821124932-05'00'",
+                        "creationdate": "D:20240821124931-05'00'",
+                        "creator": "Adobe InDesign 19.5 (Windows)",
+                        "producer": "Adobe PDF Library 17.0"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Long Term Care Insurance",
+            "htmlTitle": "Long Term Care <b>Insurance</b>",
+            "link": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/05-health/01-ltc/ltc-insurance.cfm",
+            "displayLink": "www.insurance.ca.gov",
+            "snippet": "... choose to accept the insurer's offer to increase the coverage amounts. ... factors to take into consideration when making your long-term care insurance choice.",
+            "htmlSnippet": "... <b>choose to</b> accept the insurer&#39;s offer <b>to</b> increase the <b>coverage amounts</b>. ... <b>factors to</b> take into <b>consideration</b> when making <b>your</b> long-term care <b>insurance</b> choice.",
+            "formattedUrl": "https://www.insurance.ca.gov/01-consumers/105.../ltc-insurance.cfm",
+            "htmlFormattedUrl": "https://www.<b>insurance</b>.ca.gov/01-consumers/105.../ltc-<b>insurance</b>.cfm",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67_rn76cB2NASlBZCDWhvDRwBRbdmbfo5spWR7m02yrOT9mmxhHqJUQHl&s",
+                        "width": "300",
+                        "height": "130"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "handheldfriendly": "True",
+                        "viewport": "width=device-width, target-densitydpi=160dpi, initial-scale=1.0",
+                        "author": "State of California",
+                        "mobileoptimized": "320"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.insurance.ca.gov/images/santabarbara/header_ca.gov.png?new"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Top 10 Things to Consider When Choosing Disability Insurance",
+            "htmlTitle": "Top 10 Things <b>to Consider</b> When <b>Choosing</b> Disability <b>Insurance</b>",
+            "link": "https://disabilitydenials.com/blog/top-10-considerations-when-choosing-disability-insurance/",
+            "displayLink": "disabilitydenials.com",
+            "snippet": "If you purchase individual disability coverage, premiums will be based on a number of factors, including age, health and occupation. Individually purchased\u00a0...",
+            "htmlSnippet": "If you purchase individual disability <b>coverage</b>, premiums <b>will</b> be based on a <b>number</b> of <b>factors</b>, including age, health and occupation. Individually purchased&nbsp;...",
+            "formattedUrl": "https://disabilitydenials.com/.../top-10-considerations-when-choosing-disabi...",
+            "htmlFormattedUrl": "https://disabilitydenials.com/.../top-10-<b>consider</b>ations-when-<b>choosing</b>-disabi...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mrxrxmSeCBmOZDAiRxkJFPG_lzE9dFwnyokndhYkt6dln7E-utDNnMQ&s",
+                        "width": "196",
+                        "height": "78"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://disabilitydenials.com/wp-content/uploads/2022/12/header_logo.png",
+                        "article:published_time": "2020-01-02T16:52:36+00:00",
+                        "og:image:width": "196",
+                        "twitter:card": "summary_large_image",
+                        "theme-color": "#ffffff",
+                        "og:site_name": "Disability Denials",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/png",
+                        "qa-crawler:parent-practice-area": "LTD Disability Claim",
+                        "msapplication-tileimage": "https://disabilitydenials.com/wp-content/uploads/2016/01/favicon.png",
+                        "og:description": "Choosing disability insurance can be downright confusing. We sum up 10 things to look for in disability insurance.",
+                        "twitter:creator": "@marcwhitehead",
+                        "article:publisher": "https://www.facebook.com/AttorneyMarcWhitehead/",
+                        "twitter:data1": "MacKinley Tatom",
+                        "twitter:data2": "6 minutes",
+                        "twitter:site": "@marcwhitehead",
+                        "article:modified_time": "2024-04-26T17:47:41+00:00",
+                        "msapplication-tilecolor": "#da532c",
+                        "og:type": "article",
+                        "author": "MacKinley Tatom",
+                        "og:title": "Top 10 Things to Consider When Choosing Disability Insurance",
+                        "og:image:height": "78",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://disabilitydenials.com/blog/top-10-considerations-when-choosing-disability-insurance/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://disabilitydenials.com/wp-content/uploads/2022/12/header_logo.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "How Long Should I Have Life Insurance? | Progressive",
+            "htmlTitle": "How Long <b>Should</b> I Have <b>Life Insurance</b>? | Progressive",
+            "link": "https://www.progressive.com/answers/how-long-should-i-have-life-insurance/",
+            "displayLink": "www.progressive.com",
+            "snippet": "Before selecting a life insurance term length, consider your dependents and any outstanding debts. Learn more about choosing coverage duration.",
+            "htmlSnippet": "Before <b>selecting</b> a <b>life insurance</b> term length, <b>consider your</b> dependents and any outstanding debts. Learn more about <b>choosing coverage</b> duration.",
+            "formattedUrl": "https://www.progressive.com/.../how-long-should-i-have-life-insurance/",
+            "htmlFormattedUrl": "https://www.progressive.com/.../how-long-<b>should</b>-i-have-<b>life</b>-<b>insurance</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxtE3zOVXoTNLr1qOXKxUkkID0SbaNq2w9G-BE0je2kmuXt3hOS44NLna&s",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:image:alt": "Progressive Answers",
+                        "twitter:title": "How Long Should I Have Life Insurance?",
+                        "og:title": "How Long Should I Have Life Insurance?",
+                        "twitter:creator": "@Progressive",
+                        "og:description": "Before selecting a life insurance term length, consider your dependents and any outstanding debts. Learn more about choosing coverage duration.",
+                        "twitter:image": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt1ee7df7b4b6c25d1/60a526ec4ac76a5c4fb1c9b4/perficient_twitter.png",
+                        "twitter:image:alt": "Progressive Answers",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Before selecting a life insurance term length, consider your dependents and any outstanding debts. Learn more about choosing coverage duration.",
+                        "og:locale": "en_US"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

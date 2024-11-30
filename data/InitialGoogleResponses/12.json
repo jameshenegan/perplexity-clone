@@ -1,0 +1,537 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - What is the difference between term and whole life insurance?",
+                "totalResults": "450000000",
+                "searchTerms": "What is the difference between term and whole life insurance?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "b17bc7cb6e2024dc6"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - What is the difference between term and whole life insurance?",
+                "totalResults": "450000000",
+                "searchTerms": "What is the difference between term and whole life insurance?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "b17bc7cb6e2024dc6"
+            }
+        ]
+    },
+    "context": {
+        "title": "search-demo"
+    },
+    "searchInformation": {
+        "searchTime": 0.15184,
+        "formattedSearchTime": "0.15",
+        "totalResults": "450000000",
+        "formattedTotalResults": "450,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Term vs. Whole Life Insurance: Key Differences | Progressive",
+            "htmlTitle": "<b>Term</b> vs. <b>Whole Life Insurance</b>: Key <b>Differences</b> | Progressive",
+            "link": "https://www.progressive.com/answers/term-vs-whole-life-insurance/",
+            "displayLink": "www.progressive.com",
+            "snippet": "Choosing between term and whole life insurance comes down to how long you want coverage and how much you can afford. Term life is more affordable but lasts\u00a0...",
+            "htmlSnippet": "Choosing <b>between term and whole life insurance</b> comes down to how long you want coverage and how much you can afford. <b>Term</b> life is more affordable but lasts&nbsp;...",
+            "formattedUrl": "https://www.progressive.com/answers/term-vs-whole-life-insurance/",
+            "htmlFormattedUrl": "https://www.progressive.com/answers/<b>term</b>-vs-<b>whole</b>-<b>life</b>-<b>insurance</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxtE3zOVXoTNLr1qOXKxUkkID0SbaNq2w9G-BE0je2kmuXt3hOS44NLna&s",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:image:alt": "Progressive Answers",
+                        "twitter:title": "Term vs. Whole Life Insurance: Key Differences",
+                        "og:title": "Term vs. Whole Life Insurance: Key Differences",
+                        "twitter:creator": "@Progressive",
+                        "og:description": "Can't decide between term and whole life insurance? Understand what each means, what they offer, and which best fits the needs of you and your family.",
+                        "twitter:image": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt1ee7df7b4b6c25d1/60a526ec4ac76a5c4fb1c9b4/perficient_twitter.png",
+                        "twitter:image:alt": "Progressive Answers",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Can't decide between term and whole life insurance? Understand what each means, what they offer, and which best fits the needs of you and your family.",
+                        "og:locale": "en_US"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/bltec8e663876ff93ce/60a526d0e2db156d00f0b7fb/perficient_facebook.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Term vs. Whole Life Insurance | Aflac",
+            "htmlTitle": "<b>Term</b> vs. <b>Whole Life Insurance</b> | Aflac",
+            "link": "https://www.aflac.com/resources/life-insurance/term-vs-whole-life-insurance.aspx",
+            "displayLink": "www.aflac.com",
+            "snippet": "One of the main differences between whole and term life insurance is the cost. The costs of either plan vary depending on age group, gender, and medical history\u00a0...",
+            "htmlSnippet": "One of the main <b>differences between whole</b> and <b>term life insurance</b> is the cost. The costs of either plan vary depending on age group, gender, and medical history&nbsp;...",
+            "formattedUrl": "https://www.aflac.com/.../life-insurance/term-vs-whole-life-insurance.aspx",
+            "htmlFormattedUrl": "https://www.aflac.com/.../<b>life</b>-<b>insurance</b>/<b>term</b>-vs-<b>whole</b>-<b>life</b>-<b>insurance</b>.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ZxGACsXC9ppeA92KA-FY3AAUHLlXi2KFw5oDru_oIq92p-niXMTVEs86&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "msapplication-tilecolor": "#0099cc",
+                        "og:image": "http://www.aflac.com/_global-assets/images/aflac-logo.jpg",
+                        "search_show_on_search": "all",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "twitter:title": "Aflac Supplemental Insurance",
+                        "og:site_name": "Aflac",
+                        "cp_noindex": "false",
+                        "og:title": "Aflac Supplemental Insurance",
+                        "template_label": "Generic Page",
+                        "asset_id": "160312",
+                        "msapplication-tileimage": "/_Global-Assets/images/favicons/mstile_144x144.png",
+                        "asset_label": "Term vs whole life insurance",
+                        "og:description": "Aflac provides supplemental insurance for individuals and groups to help pay benefits major medical doesn't cover.",
+                        "twitter:image": "http://www.aflac.com/_global-assets/images/aflac-logo.jpg",
+                        "site": "Aflac",
+                        "twitter:site": "@Aflac",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "page_country": "US",
+                        "twitter:description": "Aflac provides supplemental insurance for individuals and groups to help pay benefits major medical doesn't cover.",
+                        "og:url": "http://www.aflac.com/resources/life-insurance/term-vs-whole-life-insurance.aspx",
+                        "format-detection": "telephone=no",
+                        "page_language": "EN"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "http://www.aflac.com/_global-assets/images/aflac-logo.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Term vs. Whole Life Insurance: Key Differences | Guardian",
+            "htmlTitle": "<b>Term</b> vs. <b>Whole Life Insurance</b>: Key <b>Differences</b> | Guardian",
+            "link": "https://www.guardianlife.com/life-insurance/term-vs-whole",
+            "displayLink": "www.guardianlife.com",
+            "snippet": "The most significant difference between the two types of policies is that while both pay a death benefit to your beneficiaries, term life only covers you for a\u00a0...",
+            "htmlSnippet": "The most significant <b>difference between</b> the two types of policies is that while both pay a death benefit to your beneficiaries, <b>term life</b> only covers you for a&nbsp;...",
+            "formattedUrl": "https://www.guardianlife.com/life-insurance/term-vs-whole",
+            "htmlFormattedUrl": "https://www.guardian<b>life</b>.com/<b>life</b>-<b>insurance</b>/<b>term</b>-vs-<b>whole</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOMxs_oHKmv7E2sU2_y9ioJ6yf4oZTpLJsZRjUt98_Bzs-em9k2Po-V8&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "application-name": "GuardianLife",
+                        "og:image": "https://images.ctfassets.net/gau1nv66ynug/1wlg5wJKVkDwxOXg0fEfzx/2c9b2a97603505a897994e3a535d8494/Family_in_bed_looking_over_their_laptop.jpg",
+                        "theme-color": "#000000",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Term vs. Whole Life Insurance: Key Differences | Guardian",
+                        "apple-mobile-web-app-title": "GuardianLife",
+                        "og:title": "Term vs. Whole Life Insurance: Key Differences | Guardian",
+                        "og:description": "Choosing between term and whole life insurance? See the key differences to determine which policy is best for you",
+                        "twitter:creator": "@guardianlife",
+                        "twitter:image": "https://images.ctfassets.net/gau1nv66ynug/1wlg5wJKVkDwxOXg0fEfzx/2c9b2a97603505a897994e3a535d8494/Family_in_bed_looking_over_their_laptop.jpg",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "Choosing between term and whole life insurance? See the key differences to determine which policy is best for you",
+                        "og:url": "https://www.guardianlife.com/life-insurance/term-vs-whole",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.ctfassets.net/gau1nv66ynug/1wlg5wJKVkDwxOXg0fEfzx/2c9b2a97603505a897994e3a535d8494/Family_in_bed_looking_over_their_laptop.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Term Life vs. Whole Life Insurance: Key Differences and How To ...",
+            "htmlTitle": "<b>Term</b> Life vs. <b>Whole Life Insurance</b>: Key <b>Differences</b> and How To ...",
+            "link": "https://www.nerdwallet.com/article/insurance/term-vs-whole-life-insurance",
+            "displayLink": "www.nerdwallet.com",
+            "snippet": "Oct 21, 2024 ... The difference between term and whole life insurance is that term life insurance is cheaper and covers you for a set period of time, while whole\u00a0...",
+            "htmlSnippet": "Oct 21, 2024 <b>...</b> The <b>difference between term and whole life insurance</b> is that term life insurance is cheaper and covers you for a set period of time, while whole&nbsp;...",
+            "formattedUrl": "https://www.nerdwallet.com/article/insurance/term-vs-whole-life-insurance",
+            "htmlFormattedUrl": "https://www.nerdwallet.com/article/<b>insurance</b>/<b>term</b>-vs-<b>whole</b>-<b>life</b>-<b>insurance</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKCTUbKjfmGCr25JaTrhotxcZsNIhUN_YGfxJt2XXvGiETZxKY8u5xoZL&s",
+                        "width": "290",
+                        "height": "174"
+                    }
+                ],
+                "Table": [
+                    {
+                        "about": "Table 12567"
+                    },
+                    {
+                        "about": "Table 15827"
+                    }
+                ],
+                "Article": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "p:domain_verify": "ded29bae148e77c84fc5f8d60179e385",
+                        "og:image": "https://www.nerdwallet.com/tachyon/2020/12/GettyImages-1203794009.jpg?resize=1440%2C864",
+                        "og:image:width": "1440",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "NerdWallet",
+                        "og:title": "Term Life vs. Whole Life Insurance: Key Differences and How To Choose - NerdWallet",
+                        "og:image:height": "864",
+                        "about": "Table 12567",
+                        "og:description": "Term life insurance is temporary, covering you for a fixed period of time, while whole life usually lasts a lifetime. Learn more now.",
+                        "fb:pages": "108521893501",
+                        "og:image:secure_url": "https://www.nerdwallet.com/tachyon/2020/12/GettyImages-1203794009.jpg?resize=1440%2C864",
+                        "article:publisher": "http://www.facebook.com/NerdWallet",
+                        "twitter:image": "https://www.nerdwallet.com/tachyon/2020/12/GettyImages-1203794009.jpg?resize=1440%2C864",
+                        "ga-user-authentication-state": "logged_out",
+                        "twitter:site": "@NerdWallet",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "twitter:description": "Term life insurance is temporary, covering you for a fixed period of time, while whole life usually lasts a lifetime. Learn more now.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.nerdwallet.com/article/insurance/term-vs-whole-life-insurance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.nerdwallet.com/tachyon/2020/12/GettyImages-1203794009.jpg?resize=1440%2C864"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "The differences between term and whole life insurance",
+            "htmlTitle": "The <b>differences between term and whole life insurance</b>",
+            "link": "https://www.trustage.com/learn/life-insurance/term-vs-whole-life-insurance",
+            "displayLink": "www.trustage.com",
+            "snippet": "Both term life and whole life insurance offer specific advantages and excellent coverage. Comparing the two major types of life insurance may help you better\u00a0...",
+            "htmlSnippet": "Both <b>term</b> life and <b>whole life insurance</b> offer specific advantages and excellent coverage. Comparing the two major types of <b>life insurance</b> may help you better&nbsp;...",
+            "formattedUrl": "https://www.trustage.com/learn/life-insurance/term-vs-whole-life-insurance",
+            "htmlFormattedUrl": "https://www.trustage.com/learn/<b>life</b>-<b>insurance</b>/<b>term</b>-vs-<b>whole</b>-<b>life</b>-<b>insurance</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xUsugiz1be-jXfRBPXRaG0aB63A2nte3GrN-PDF4cvHbfeLox2Oge4c&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "vicurrentdatetime": "638673216661396291",
+                        "og:image": "https://www.trustage.com/-/media/images/og/2024/term-vs-whole-1200x630.jpg",
+                        "og:type": "article",
+                        "twitter:card": "summary",
+                        "twitter:title": "The differences between term and whole life insurance",
+                        "og:site_name": "TruStage Insurance",
+                        "twitter:url": "https://www.trustage.com/learn/life-insurance/term-vs-whole-life-insurance",
+                        "og:title": "The differences between term and whole life insurance",
+                        "title": "The differences between term and whole life insurance",
+                        "og:description": "Learn about term life & whole life insurance - and how they differ. Protect your family's future by getting the life insurance that fits your needs.",
+                        "twitter:creator": "@TruStage",
+                        "virtualfolder": "/",
+                        "twitter:image": "https://www.trustage.com/-/media/images/og/2024/term-vs-whole-1200x630.jpg",
+                        "twitter:image:alt": "A family sitting outside enjoying a barbecue",
+                        "twitter:site": "@trustage",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Learn about term life & whole life insurance - and how they differ. Protect your family's future by getting the life insurance that fits your needs.<br/><br/>",
+                        "og:url": "https://www.trustage.com/learn/life-insurance/term-vs-whole-life-insurance"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.trustage.com/-/media/images/og/2024/term-vs-whole-1200x630.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Comparing Veterans' Group Life Insurance (VGLI) to Whole Life ...",
+            "htmlTitle": "Comparing Veterans&#39; Group <b>Life Insurance</b> (VGLI) to <b>Whole</b> Life ...",
+            "link": "https://benefits.va.gov/insurance/whole-life-vgli-comparison.asp",
+            "displayLink": "benefits.va.gov",
+            "snippet": "... whole life insurance. We want to make sure you understand the differences between term and whole life coverage so you can make an informed decision about\u00a0...",
+            "htmlSnippet": "... <b>whole life insurance</b>. We want to make sure you understand the <b>differences between term and whole</b> life coverage so you can make an informed decision about&nbsp;...",
+            "formattedUrl": "https://benefits.va.gov/insurance/whole-life-vgli-comparison.asp",
+            "htmlFormattedUrl": "https://benefits.va.gov/<b>insurance</b>/<b>whole</b>-<b>life</b>-vgli-comparison.asp",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSdLB8OekSPIhw9e04yCdIjt-ZzHNW9XSkzVj598SNxjqvILgOm1Mfg0&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.va.gov/img/design/logo/va-og-image.png",
+                        "twitter:title": "VA.gov | Veterans Affairs",
+                        "twitter:card": "Summary",
+                        "datereviewed": "20240923",
+                        "author": "Department of Veterans Affairs, Veterans Benefits Administration, Insurance Service, VA",
+                        "subject": "Veterans' Group Life Insurance (VGLI)",
+                        "og:title": "VA.gov | Veterans Affairs",
+                        "language": "en",
+                        "datecreated": "20240919",
+                        "type": "General Information",
+                        "og:description": "Apply for and manage the VA benefits and services you\u2019ve earned as a Veteran, Servicemember, or family member\u2014like health care, disability, education, and more.",
+                        "twitter:image": "https://www.va.gov/img/design/logo/va-og-twitter-image.png",
+                        "twitter:site": "@DeptVetAffairs",
+                        "twitter:description": "Apply for and manage the VA benefits and services you\u2019ve earned as a Veteran, Servicemember, or family member\u2014like health care, disability, education, and more."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.va.gov/img/design/logo/va-og-image.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Eli5: whats the difference between term vs whole life insurance? : r ...",
+            "htmlTitle": "Eli5: whats the <b>difference between term</b> vs <b>whole life insurance</b>? : r ...",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/1b7ef09/eli5_whats_the_difference_between_term_vs_whole/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Mar 5, 2024 ... Term - is good for X amount of years. Super Cheap and provides a large amount of coverge. Whole - permanent insurance that you cannot outlive, very expensive.",
+            "htmlSnippet": "Mar 5, 2024 <b>...</b> <b>Term</b> - is good for X amount of years. Super Cheap and provides a large amount of coverge. <b>Whole</b> - <b>permanent insurance</b> that you cannot outlive, very expensive.",
+            "formattedUrl": "https://www.reddit.com/.../eli5_whats_the_difference_between_term_vs_w...",
+            "htmlFormattedUrl": "https://www.reddit.com/.../eli5_whats_the_<b>difference</b>_<b>between</b>_<b>term</b>_vs_<b>w</b>...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://share.redd.it/preview/post/1b7ef09",
+                        "theme-color": "#000000",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:image:alt": "An image containing a preview of the post",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/explainlikeimfive on Reddit: Eli5: whats the difference between term vs whole life insurance?",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/explainlikeimfive on Reddit: Eli5: whats the difference between term vs whole life insurance?",
+                        "og:image:height": "630",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/[Deleted Account] - 59 votes and 87 comments",
+                        "twitter:image": "https://share.redd.it/preview/post/1b7ef09",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/explainlikeimfive/comments/1b7ef09/eli5_whats_the_difference_between_term_vs_whole/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://share.redd.it/preview/post/1b7ef09"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Term vs. Whole Life Insurance: What's the Difference?",
+            "htmlTitle": "<b>Term</b> vs. <b>Whole Life Insurance</b>: What&#39;s the <b>Difference</b>?",
+            "link": "https://www.investopedia.com/term-life-vs-whole-life-5075430",
+            "displayLink": "www.investopedia.com",
+            "snippet": "Term life insurance offers more affordable coverage than whole life. However, it only lasts for a limited number of years, and it doesn't provide the tax-free\u00a0...",
+            "htmlSnippet": "<b>Term life insurance</b> offers more affordable coverage than <b>whole</b> life. However, it only lasts for a limited number of years, and it doesn&#39;t provide the tax-free&nbsp;...",
+            "formattedUrl": "https://www.investopedia.com/term-life-vs-whole-life-5075430",
+            "htmlFormattedUrl": "https://www.investopedia.com/<b>term</b>-<b>life</b>-vs-<b>whole</b>-<b>life</b>-5075430",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W8xBo0fkF-A1OCmVPta1HcLMpnZtmYilqACT5zuCItVMDuVCJF7DsfU&s",
+                        "width": "275",
+                        "height": "183"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.investopedia.com/thmb/cAXJkr-MXxiYyhoZFBFS2MMTsfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Search-for-a-lost-life-insurance-policy-5796d6935f9b58461f77127e.jpg",
+                        "twitter:card": "summary",
+                        "msapplication-square70x70logo": "/static/2.168.0/icons/favicons/mstile-70x70.png",
+                        "sailthru.tags": "personal-finance,insurance,life-insurance,types-of-life-insurance",
+                        "og:site_name": "Investopedia",
+                        "revenuegroup": "FINANCIALSERVICES",
+                        "msapplication-wide310x150logo": "/static/2.168.0/icons/favicons/mstile-310x150.png",
+                        "msapplication-tileimage": "/static/2.168.0/icons/favicons/mstile-144x144.png",
+                        "og:description": "Unlike term life insurance, whole life policies cover you for life and let you build savings in a cash value that you can tap for future needs.",
+                        "twitter:image": "https://www.investopedia.com/thmb/cAXJkr-MXxiYyhoZFBFS2MMTsfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Search-for-a-lost-life-insurance-policy-5796d6935f9b58461f77127e.jpg",
+                        "twitter:site": "@Investopedia",
+                        "msapplication-square310x310logo": "/static/2.168.0/icons/favicons/mstile-310x310.png",
+                        "emailcontenttype": "STRUCTUREDCONTENT",
+                        "parsely-section": "Personal Finance",
+                        "msapplication-tilecolor": "#F4F4F4",
+                        "og:type": "article",
+                        "twitter:title": "Term vs. Whole Life Insurance: What\u2019s the Difference?",
+                        "emailvertical": "INVESTOPEDIA",
+                        "og:title": "Term vs. Whole Life Insurance: What\u2019s the Difference?",
+                        "msapplication-square150x150logo": "/static/2.168.0/icons/favicons/mstile-150x150.png",
+                        "parsely-tags": "Investopedia,Personal Finance,Insurance,Life Insurance,Policy Types",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "twitter:description": "Unlike term life insurance, whole life policies cover you for life and let you build savings in a cash value that you can tap for future needs.",
+                        "og:url": "https://www.investopedia.com/term-life-vs-whole-life-5075430",
+                        "sailthru.author": "Daniel Kurt"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.investopedia.com/thmb/cAXJkr-MXxiYyhoZFBFS2MMTsfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Search-for-a-lost-life-insurance-policy-5796d6935f9b58461f77127e.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Term Life Insurance vs. Permanent Life Insurance | Securian Financial",
+            "htmlTitle": "<b>Term Life Insurance</b> vs. <b>Permanent Life Insurance</b> | Securian Financial",
+            "link": "https://www.securian.com/insights-tools/articles/term-life-vs-permanent-life.html",
+            "displayLink": "www.securian.com",
+            "snippet": "Permanent life insurance provides protection for your entire life \u2014 it doesn't expire like term life insurance. If term life is an apartment you rent, permanent\u00a0...",
+            "htmlSnippet": "<b>Permanent life insurance</b> provides protection for your entire life \u2014 it doesn&#39;t expire like <b>term life insurance</b>. If <b>term</b> life is an apartment you rent, <b>permanent</b>&nbsp;...",
+            "formattedUrl": "https://www.securian.com/insights-tools/.../term-life-vs-permanent-life.html",
+            "htmlFormattedUrl": "https://www.securian.com/insights-tools/.../<b>term</b>-<b>life</b>-vs-permanent-<b>life</b>.html",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7r4pPwraBHBCK44ZXkeNWyfAwZAO_InMq8X7kiyegrcMoDi6RzNz79px&s",
+                        "width": "347",
+                        "height": "145"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "template": "feature-article-with-hero",
+                        "og:image": "https://www.securian.com/content/dam/securian/web-assets/hero/article/article-hero-00003-girl-holding-unbrella-lg.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+                        "theme-color": "#ffffff",
+                        "og:image:width": "1250",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Securian Financial",
+                        "apple-mobile-web-app-title": "Securian",
+                        "msapplication-tileimage": "https://assetlibrary.securian.com/content/dam/securian/web-assets/brand/favicons/mstile-144x144.png",
+                        "title": "Term life insurance vs. permanent life insurance",
+                        "twitter:creator": "@securian",
+                        "og:description": "What's the difference and which one might be right for you?",
+                        "twitter:image": "https://www.securian.com/content/dam/securian/web-assets/hero/article/article-hero-00003-girl-holding-unbrella-lg.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+                        "og:image:secure_url": "https://www.securian.com/content/dam/securian/web-assets/hero/article/article-hero-00003-girl-holding-unbrella-lg.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+                        "twitter:site": "@securian",
+                        "application-name": "Securian",
+                        "msapplication-tilecolor": "#ffffff",
+                        "twitter:title": "Term life insurance vs. permanent life insurance",
+                        "og:type": "article",
+                        "og:image:alt": "Girl holding unbrella",
+                        "og:title": "Term life insurance vs. permanent life insurance",
+                        "og:image:height": "525",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "apple-mobile-web-app-capable": "yes",
+                        "twitter:description": "What's the difference and which one might be right for you?",
+                        "og:url": "https://www.securian.com/insights-tools/articles/term-life-vs-permanent-life.html"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.securian.com/content/dam/securian/web-assets/hero/article/article-hero-00003-girl-holding-unbrella-lg.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "What's the difference between term and whole life insurance ...",
+            "htmlTitle": "What&#39;s the <b>difference between term and whole life insurance</b> ...",
+            "link": "https://www.bankerslife.com/insights/understanding-insurance/whats-the-difference-between-term-and-whole-life-insurance/",
+            "displayLink": "www.bankerslife.com",
+            "snippet": "Aug 17, 2023 ... Term life insurance is the most common type of policy. It promises to pay the beneficiary/(ies) of your choice a sum of money (known as a death benefit)",
+            "htmlSnippet": "Aug 17, 2023 <b>...</b> <b>Term life insurance</b> is the most common type of policy. It promises to pay the beneficiary/(ies) of your choice a sum of money (known as a death benefit)",
+            "formattedUrl": "https://www.bankerslife.com/...insurance/whats-the-difference-between-ter...",
+            "htmlFormattedUrl": "https://www.bankers<b>life</b>.com/...<b>insurance</b>/whats-the-<b>difference</b>-<b>between</b>-<b>ter</b>...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw87NhZ6H3ienBoakIzNJUJMr8Sye9Tf9mDEqcWz2-9mysteZQvAa8Sla3&s",
+                        "width": "302",
+                        "height": "167"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blog.bankerslife.com/wp-content/uploads/2023/08/whole-life-insurance-843x465.png",
+                        "og:type": "article",
+                        "article:published_time": "2023-08-17T13:00:08+00:00",
+                        "og:image:width": "843",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Bankers Life Blog",
+                        "author": "Sarah Heckle",
+                        "apple-mobile-web-app-title": "Bankers Life Blog -",
+                        "og:title": "What's the difference between term and whole life insurance? - Bankers Life Blog",
+                        "og:image:height": "465",
+                        "twitter:label1": "Written by",
+                        "twitter:label2": "Est. reading time",
+                        "og:image:type": "image/png",
+                        "msapplication-tileimage": "https://blog.bankerslife.com/wp-content/uploads/2018/06/cropped-favicon-bankersblogclearw-270x270.png",
+                        "og:description": "Wanting to secure the financial future of your loved ones with life insurance is an obvious choice, but selecting the best type of life insurance for your Learn about the differences between term and whole life insurance, including advantages and considerations of each type of policy.",
+                        "article:publisher": "https://www.facebook.com/BankersLife",
+                        "twitter:data1": "Sarah Heckle",
+                        "twitter:data2": "4 minutes",
+                        "article:modified_time": "2023-08-16T16:51:38+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "og:url": "/insights/understanding-insurance/whats-the-difference-between-term-and-whole-life-insurance/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blog.bankerslife.com/wp-content/uploads/2023/08/whole-life-insurance-843x465.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

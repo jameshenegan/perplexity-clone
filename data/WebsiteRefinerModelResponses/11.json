@@ -1,0 +1,158 @@
+[
+    {
+        "id": "chatcmpl-AXERqdKkOF8vPGlvyqphBDFbkPqV5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "When choosing your coverage amount for life insurance, consider the following factors:\n\n1. **Income Replacement**: If you are the primary income earner, assess how much of your income needs to be replaced. Common guidance suggests covering a multiple of your income based on your age: \n   - 30X your income between ages 18 and 40\n   - 20X income for ages 41-50\n   - 15X income for ages 51-60\n   - 10X income for ages 61-65\n\n2. **Dependents**: The more dependents you have and the younger they are, the more coverage you may need to provide financial support in your absence.\n\n3. **Debts and Financial Obligations**: Account for all your debts (excluding the mortgage), including car payments, credit cards, and student loans, as well as final expenses (around $7,000).\n\n4. **Mortgage**: Consider your mortgage payoff amount and any other real estate-related debts.\n\n5. **Education Costs**: Plan for anticipated college costs for each child, estimating between $100,000 and $150,000 per child.\n\n6. **Final Expenses**: Include funds to cover funeral costs and other final expenses.\n\n7. **Current Savings**: Adjust your total needed coverage by subtracting any current savings or existing life insurance you already have.\n\n8. **Financial Advice**: Consult a financial professional to tailor your coverage amount to your unique situation, as your personal assets, obligations, and goals may also affect your insurance needs.\n\nUltimately, choose an amount that gives you the most reassurance that your family will be financially secure even if you are not there to provide for them.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732483726,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 346,
+            "prompt_tokens": 3106,
+            "total_tokens": 3452,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.guardianlife.com/life-insurance/how-much-life-insurance-do-you-need"
+    },
+    {
+        "id": "chatcmpl-AXERxwBvxtYusbhxw9APo48a606MZ",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732483733,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 1518,
+            "total_tokens": 1530,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://doi.sc.gov/1019/Understanding-Your-Deductible"
+    },
+    {
+        "id": "chatcmpl-AXERyKFI6v7dEktzF861Mc7kBnF7Q",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "When choosing your coverage amount for life insurance, consider the following factors:\n\n1. **Replacement Cost of Your Home**: Ensure that your dwelling policy limits are at least 80% of the replacement cost of your home.\n  \n2. **Inventory of Personal Property**: Take inventory of everything you own, excluding items already insured under other policies, to assess the value of your belongings and decide on appropriate coverage.\n\n3. **Value of Personal Property**: Consider how much your personal property is worth when deciding on coverage for contents in your home. Be mindful that typical homeowners policies may not cover all items at full replacement cost.\n\n4. **Coverage for High-Value Items**: For high-value items like jewelry or art, consider scheduling these items separately for adequate coverage.\n\n5. **Policy Limits for Liability Coverage**: The basic limit for liability coverage is usually $100,000 per occurrence, but you may want to consider higher limits for better protection.\n\n6. **Inflation and Rising Costs**: Regularly review and adjust your policy limits to reflect increasing costs due to inflation and improvements to your home.\n\n7. **Agent Consultation**: Discuss your insurance needs with an insurance agent to help determine the correct type and amount of insurance.\n\nBy considering these factors, you can help ensure that you have adequate coverage tailored to your specific circumstances.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732483734,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 268,
+            "prompt_tokens": 12285,
+            "total_tokens": 12553,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.scc.virginia.gov/pages/Virginia-Homeowners-Insurance-Guide"
+    },
+    {
+        "id": "chatcmpl-AXES1qCIZRQpqA7jabB7WTbTf6jz9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1732483737,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 12,
+            "prompt_tokens": 280,
+            "total_tokens": 292,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/"
+    }
+]
