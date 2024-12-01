@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - Where is Southern Farm Bureau Life Insurance Company located?",
-                "totalResults": "14600000",
-                "searchTerms": "Where is Southern Farm Bureau Life Insurance Company located?",
+                "title": "Google Custom Search - Where should I buy life insurance in Mississippi?",
+                "totalResults": "33400000",
+                "searchTerms": "Where should I buy life insurance in Mississippi?",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - Where is Southern Farm Bureau Life Insurance Company located?",
-                "totalResults": "14600000",
-                "searchTerms": "Where is Southern Farm Bureau Life Insurance Company located?",
+                "title": "Google Custom Search - Where should I buy life insurance in Mississippi?",
+                "totalResults": "33400000",
+                "searchTerms": "Where should I buy life insurance in Mississippi?",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,260 +36,166 @@
         "title": "search-demo"
     },
     "searchInformation": {
-        "searchTime": 0.256033,
-        "formattedSearchTime": "0.26",
-        "totalResults": "14600000",
-        "formattedTotalResults": "14,600,000"
+        "searchTime": 0.340559,
+        "formattedSearchTime": "0.34",
+        "totalResults": "33400000",
+        "formattedTotalResults": "33,400,000"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Life Insurance Company",
-            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b>",
-            "link": "https://www.sfbli.com/",
-            "displayLink": "www.sfbli.com",
-            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer\u00a0...",
-            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer&nbsp;...",
-            "formattedUrl": "https://www.sfbli.com/",
-            "htmlFormattedUrl": "https://www.sfbli.com/",
+            "title": "Life Insurance and Annuities - Official Website of the Mississippi ...",
+            "htmlTitle": "<b>Life Insurance</b> and Annuities - Official Website of the <b>Mississippi</b> ...",
+            "link": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/life-insurance-and-annuities/",
+            "displayLink": "www.mid.ms.gov",
+            "snippet": "When you buy life insurance, you want coverage that fits your needs. First, decide how much you need \u2013 and for how long \u2013 and what you can afford to pay.",
+            "htmlSnippet": "When you <b>buy life insurance</b>, you want coverage that fits your needs. First, decide how much you need \u2013 and for how long \u2013 and what you <b>can</b> afford to pay.",
+            "formattedUrl": "https://www.mid.ms.gov/mississippi-insurance.../life-insurance-and-annuitie...",
+            "htmlFormattedUrl": "https://www.mid.ms.gov/<b>mississippi</b>-<b>insurance</b>.../<b>life</b>-<b>insurance</b>-and-annuitie...",
             "pagemap": {
-                "metatags": [
+                "website": [
                     {
-                        "site_name": "Southern Farm Bureau Life Insurance Company",
-                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "title": "Southern Farm Bureau Life Insurance Company: Home"
+                        "url": "https://www.mid.ms.gov/"
                     }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Casualty Insurance Company: Home",
-            "htmlTitle": "<b>Southern Farm Bureau Casualty Insurance Company</b>: Home",
-            "link": "https://w3.sfbcic.com/",
-            "displayLink": "w3.sfbcic.com",
-            "snippet": "Download the MOBILE agent App. MOBILE agent offers on-the-go convenience with 24/7 access to account information. Review your policies, report a claim, contact\u00a0...",
-            "htmlSnippet": "Download the MOBILE agent App. MOBILE agent offers on-the-go convenience with 24/7 access to account information. Review your policies, report a claim, contact&nbsp;...",
-            "formattedUrl": "https://w3.sfbcic.com/",
-            "htmlFormattedUrl": "https://w3.sfbcic.com/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGIWQRaY6nyHA7qcGkSNhOHtCh4BH009RLtXH7Unli6pBeoTqv5tuVeA&s",
-                        "width": "275",
-                        "height": "183"
-                    }
+                ],
+                "BreadcrumbList": [
+                    {}
                 ],
                 "metatags": [
                     {
-                        "og:image": "https://w3.sfbcic.com/wp-content/uploads/2019/08/FBCasualty-building_web.jpg",
-                        "og:type": "website",
-                        "og:image:width": "2003",
-                        "twitter:card": "summary_large_image",
-                        "og:site_name": "Southern Farm Bureau Casualty Insurance Company",
-                        "og:title": "Home - Southern Farm Bureau Casualty Insurance Company",
-                        "og:image:height": "1337",
-                        "og:image:type": "image/jpeg",
-                        "og:description": "Southern Farm Bureau Casualty Insurance Company is headquartered in Ridgeland, Mississippi.",
-                        "article:modified_time": "2019-10-21T19:23:04+00:00",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "og:locale": "en_US",
-                        "og:url": "https://w3.sfbcic.com/"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://w3.sfbcic.com/wp-content/uploads/2019/08/FBCasualty-building_web.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Life Insurance",
-            "htmlTitle": "<b>Southern Farm Bureau Life Insurance</b>",
-            "link": "https://www.sfbli.com/loginregister",
-            "displayLink": "www.sfbli.com",
-            "snippet": "For any questions, please contact our Policy Service Department at 1-800-457-9611. Our representatives are available Monday through Friday from 8:00 AM to 4:30\u00a0...",
-            "htmlSnippet": "For any questions, please contact our Policy Service Department at 1-800-457-9611. Our representatives are available Monday through Friday from 8:00 AM to 4:30&nbsp;...",
-            "formattedUrl": "https://www.sfbli.com/loginregister",
-            "htmlFormattedUrl": "https://www.sfbli.com/loginregister",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "site_name": "Southern Farm Bureau Life Insurance Company",
-                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
-            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b> | LinkedIn",
-            "link": "https://www.linkedin.com/company/southern-farm-bureau",
-            "displayLink": "www.linkedin.com",
-            "snippet": "Southern Farm Bureau Life Insurance Company | 5690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company\u00a0...",
-            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company</b> | 5690 followers on LinkedIn. Your Friends for Life | <b>Southern Farm Bureau Life Insurance Company</b> is a <b>company</b>&nbsp;...",
-            "formattedUrl": "https://www.linkedin.com/company/southern-farm-bureau",
-            "htmlFormattedUrl": "https://www.linkedin.com/<b>company</b>/<b>southern</b>-<b>farm</b>-<b>bureau</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOBpuMQZv31d7As0a4PUGABcYfy804m8tJVGpz0OUc07k7r8Xq187-P_F&s",
-                        "width": "200",
-                        "height": "200"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:image": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc",
                         "og:type": "article",
-                        "twitter:card": "summary",
-                        "twitter:title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
-                        "clientsideingraphs": "1",
-                        "al:ios:app_name": "LinkedIn",
-                        "linkedin:pagetag": "noncanonical_subdomain=control",
-                        "og:title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
-                        "al:android:package": "com.linkedin.android",
-                        "pagekey": "p_org_guest_company_overview",
-                        "bingbot": "nocache",
-                        "locale": "en_US",
-                        "al:ios:url": "https://www.linkedin.com/company/southern-farm-bureau",
-                        "og:description": "Southern Farm Bureau Life Insurance Company | 5,690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company that cares about people. We care for our home office employees, our policyholders, our community, and the agents who sell our products. Putting people first is always top of mind.",
-                        "al:ios:app_store_id": "288429040",
-                        "twitter:image": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc",
-                        "al:android:url": "https://www.linkedin.com/company/southern-farm-bureau",
-                        "twitter:site": "@linkedin",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "twitter:description": "Southern Farm Bureau Life Insurance Company | 5,690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company that cares about people. We care for our home office employees, our policyholders, our community, and the agents who sell our products. Putting people first is always top of mind.",
-                        "og:url": "https://www.linkedin.com/company/southern-farm-bureau",
-                        "al:android:app_name": "LinkedIn"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Contact Us - Southern Farm Bureau Life Insurance",
-            "htmlTitle": "Contact Us - <b>Southern Farm Bureau Life Insurance</b>",
-            "link": "https://www.sfbli.com/contactus",
-            "displayLink": "www.sfbli.com",
-            "snippet": "Our representatives are available Monday - Friday, 8:00 AM - 4:30 PM Central Time. ... Our Mission is to be the life insurance company of choice for our Farm\u00a0...",
-            "htmlSnippet": "Our representatives are available Monday - Friday, 8:00 AM - 4:30 PM Central Time. ... Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm</b>&nbsp;...",
-            "formattedUrl": "https://www.sfbli.com/contactus",
-            "htmlFormattedUrl": "https://www.sfbli.com/contactus",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "site_name": "Southern Farm Bureau Life Insurance Company",
-                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Life Insurance Company | Customer Success ...",
-            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b> | Customer Success ...",
-            "link": "https://www.splunk.com/en_us/customers/success-stories/southern-farm-bureau-life-insurance-company.html",
-            "displayLink": "www.splunk.com",
-            "snippet": "Southern Farm Bureau Life Insurance Company's (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales\u00a0...",
-            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company&#39;s</b> (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales&nbsp;...",
-            "formattedUrl": "https://www.splunk.com/.../southern-farm-bureau-life-insurance-company....",
-            "htmlFormattedUrl": "https://www.splunk.com/.../<b>southern</b>-<b>farm</b>-<b>bureau</b>-<b>life</b>-<b>insurance</b>-<b>company</b>....",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQ5IRP3DH-3zjDIgz0F5YwDNFx4vB7Fs40oj-6XJxpLWDz5TK8hJBCO0&s",
-                        "width": "225",
-                        "height": "225"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "application-name": "Splunk",
-                        "msapplication-tilecolor": "#FFFFFF",
-                        "og:image": "https://www.splunk.com/content/dam/splunk2/images/social/D2E-social.jpg",
-                        "og:type": "website",
-                        "twitter:card": "summary",
-                        "twitter:title": "Southern Farm Bureau Life Insurance Company | Customer Success | Splunk",
-                        "msapplication-square70x70logo": "/content/dam/splunk2/images/icons/favicons/mstile-70x70.png",
-                        "og:site_name": "Splunk",
-                        "twitter:url": "https://www.splunk.com/en_us/customers/success-stories/southern-farm-bureau-life-insurance-company.html",
-                        "og:title": "Southern Farm Bureau Life Insurance Company | Customer Success | Splunk",
-                        "msapplication-wide310x150logo": "/content/dam/splunk2/images/icons/favicons/mstile-310x150.png",
-                        "msapplication-tileimage": "/content/dam/splunk2/images/icons/favicons/mstile-144x144.png",
-                        "og:description": "Southern Farm Bureau Life Insurance Company\u2019s (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales and created alert fatigue that could jeopardize the company.",
-                        "msapplication-square150x150logo": "/content/dam/splunk2/images/icons/favicons/mstile-150x150.png",
-                        "twitter:image": "https://www.splunk.com/content/dam/splunk2/images/social/D2E-social.jpg",
-                        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
-                        "msapplication-square310x310logo": "/content/dam/splunk2/images/icons/favicons/mstile-310x310.png",
-                        "twitter:description": "Southern Farm Bureau Life Insurance Company\u2019s (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales and created alert fatigue that could jeopardize the company.",
-                        "og:locale": "en_US",
-                        "og:url": "https://www.splunk.com/en_us/customers/success-stories/southern-farm-bureau-life-insurance-company.html"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.splunk.com/content/dam/splunk2/images/social/D2E-social.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Careers - Southern Farm Bureau Life Insurance",
-            "htmlTitle": "Careers - <b>Southern Farm Bureau Life Insurance</b>",
-            "link": "https://www.sfbli.com/Careers",
-            "displayLink": "www.sfbli.com",
-            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer service\u00a0...",
-            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer service&nbsp;...",
-            "formattedUrl": "https://www.sfbli.com/Careers",
-            "htmlFormattedUrl": "https://www.sfbli.com/Careers",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "site_name": "Southern Farm Bureau Life Insurance Company",
-                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "title": "Southern Farm Bureau Life Insurance Company: Careers"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Life Insurance | Farm Bureau Insurance",
-            "htmlTitle": "<b>Life Insurance</b> | <b>Farm Bureau</b> Insurance",
-            "link": "https://www.scfbins.com/insurance/other-products/life-insurance",
-            "displayLink": "www.scfbins.com",
-            "snippet": "Contact an agent today for more information. For a full list of life insurance products available, visit Southern Farm Bureau Life Insurance Company.",
-            "htmlSnippet": "Contact an agent today for more information. For a full list of <b>life insurance</b> products available, visit <b>Southern Farm Bureau Life Insurance Company</b>.",
-            "formattedUrl": "https://www.scfbins.com/insurance/other-products/life-insurance",
-            "htmlFormattedUrl": "https://www.scfbins.com/<b>insurance</b>/other-products/<b>life</b>-<b>insurance</b>",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejy5UPbUQl6qGGKq0lFvrrCTGe6asxN4MxXyTZNsL_R_ke6DmERcdfAY&s",
-                        "width": "310",
-                        "height": "163"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:image": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg",
                         "twitter:card": "summary_large_image",
-                        "twitter:site": "@scfbins",
-                        "og:video": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg",
+                        "og:site_name": "Official Website of the Mississippi Insurance Department",
+                        "og:title": "Life Insurance and Annuities - Official Website of the Mississippi Insurance Department",
+                        "apple-mobile-web-app-title": "Official Website of the Mississippi Insurance Department -",
+                        "twitter:label1": "Est. reading time",
+                        "og:description": "Life Insurance Buyer\u2019s Guide (PDF) [...]Read More... from Life Insurance and AnnuitiesRead More from Life Insurance and Annuities",
+                        "article:publisher": "https://www.facebook.com/MSInsuranceDept",
+                        "twitter:data1": "1 minute",
+                        "twitter:site": "@MSInsuranceDept",
+                        "article:modified_time": "2024-06-21T19:08:00+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "position": "1",
+                        "og:url": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/life-insurance-and-annuities/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Whole and Term Life Insurance | Mississippi Farm Bureau Insurance",
+            "htmlTitle": "Whole and Term <b>Life Insurance</b> | <b>Mississippi</b> Farm Bureau Insurance",
+            "link": "https://msfbins.com/products/life/",
+            "displayLink": "msfbins.com",
+            "snippet": "We offer term and whole life insurance policies through Southern Farm Bureau Life Insurance Company. Get a free life insurance quote today!",
+            "htmlSnippet": "We offer term and whole <b>life insurance</b> policies through Southern Farm Bureau <b>Life Insurance</b> Company. <b>Get</b> a free <b>life insurance</b> quote today!",
+            "formattedUrl": "https://msfbins.com/products/life/",
+            "htmlFormattedUrl": "https://msfbins.com/products/<b>life</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvFCi89hxGH0mQjZH2kxy7pOtXoGv7vP5Ibcui1iZbbX8ZFchHCjbWHxY&s",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://msfbins.com/wp-content/uploads/2019/04/SFBCIC-Social_Link_Image_MS_2.jpg",
+                        "og:type": "article",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Mississippi Farm Bureau Insurance",
+                        "og:title": "Whole and Term Life Insurance | Mississippi Farm Bureau Insurance",
+                        "og:image:height": "628",
+                        "twitter:label1": "Est. reading time",
+                        "og:image:type": "image/jpeg",
+                        "og:description": "We offer term and whole life insurance policies through Southern Farm Bureau Life Insurance Company. Get a free life insurance quote today!",
+                        "twitter:data1": "2 minutes",
+                        "article:modified_time": "2020-01-21T14:00:54+00:00",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "og:locale": "en_US",
+                        "og:url": "https://msfbins.com/products/life/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://msfbins.com/wp-content/uploads/2019/04/SFBCIC-Social_Link_Image_MS_2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mississippi Insurance Department - Official Website of the ...",
+            "htmlTitle": "<b>Mississippi Insurance</b> Department - Official Website of the ...",
+            "link": "https://www.mid.ms.gov/",
+            "displayLink": "www.mid.ms.gov",
+            "snippet": "Life Insurance and AnnuitiesPurchasing the right coverage and amount ... One thing you should do is shop around for the best coverage and that means\u00a0...",
+            "htmlSnippet": "<b>Life Insurance</b> and Annuities<b>Purchasing</b> the right coverage and amount ... One thing you <b>should do</b> is <b>shop</b> around for the best coverage and that means&nbsp;...",
+            "formattedUrl": "https://www.mid.ms.gov/",
+            "htmlFormattedUrl": "https://www.mid.ms.gov/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTNjHB8ePOoissFr8LAZ1JAyWtdv-IZzsTAAMpXNnLFxWFS9_B12kzgMW&s",
+                        "width": "335",
+                        "height": "150"
+                    }
+                ],
+                "website": [
+                    {
+                        "url": "https://www.mid.ms.gov/"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Official Website of the Mississippi Insurance Department",
+                        "og:title": "Mississippi Insurance Department - Official Website of the Mississippi Insurance Department",
+                        "apple-mobile-web-app-title": "Official Website of the Mississippi Insurance Department -",
+                        "og:description": "to create an environment conducive to a competitive marketplace for the sale of insurance products and services while providing the State\u2019s citizens with the maximum amount of consumer protection. [...]Read More... from Mississippi Insurance DepartmentRead More from Mississippi Insurance Department",
+                        "article:publisher": "https://www.facebook.com/MSInsuranceDept",
+                        "twitter:site": "@MSInsuranceDept",
+                        "article:modified_time": "2024-07-26T21:48:38+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.mid.ms.gov/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.mid.ms.gov/wp-content/uploads/2024/02/Cheney-M4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Minnesota Life Insurance | Mississippi Department of Finance and ...",
+            "htmlTitle": "Minnesota <b>Life Insurance</b> | <b>Mississippi</b> Department of Finance and ...",
+            "link": "https://www.dfa.ms.gov/minnesota-life-insurance",
+            "displayLink": "www.dfa.ms.gov",
+            "snippet": "Employees who elect life insurance coverage should designate one or more beneficiaries with Minnesota Life ... Work Order Request. In the event of an\u00a0...",
+            "htmlSnippet": "Employees who elect <b>life insurance</b> coverage <b>should</b> designate one or more beneficiaries with Minnesota Life ... Work <b>Order</b> Request. In the event of an&nbsp;...",
+            "formattedUrl": "https://www.dfa.ms.gov/minnesota-life-insurance",
+            "htmlFormattedUrl": "https://www.dfa.ms.gov/minnesota-<b>life</b>-<b>insurance</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XGKB69iF45bIoUcWyQVF74msVHbTOffHwNpSkrpKrs3GaPXasHHP&s",
+                        "width": "264",
+                        "height": "101"
+                    }
+                ],
+                "metatags": [
+                    {
                         "handheldfriendly": "true",
                         "viewport": "width=device-width, initial-scale=1.0",
                         "mobileoptimized": "width"
@@ -297,69 +203,232 @@
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg"
+                        "src": "https://www.dfa.ms.gov/sites/default/files/DFA_Logo.png"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Find an Agent - Southern Farm Bureau Life Insurance",
-            "htmlTitle": "Find an Agent - <b>Southern Farm Bureau Life Insurance</b>",
-            "link": "https://sfbli.com/FindAnAgent/",
-            "displayLink": "sfbli.com",
-            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer service\u00a0...",
-            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer service&nbsp;...",
-            "formattedUrl": "https://sfbli.com/FindAnAgent/",
-            "htmlFormattedUrl": "https://sfbli.com/FindAnAgent/",
+            "title": "Life Insurance Policy Locator Service - Official Website of the ...",
+            "htmlTitle": "<b>Life Insurance</b> Policy Locator Service - Official Website of the ...",
+            "link": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/life-insurance-policy-locator-services/",
+            "displayLink": "www.mid.ms.gov",
+            "snippet": "The Department will forward search requests and supporting documentation to Mississippi-licensed life insurance companies within 30 business days of submission.",
+            "htmlSnippet": "The Department <b>will</b> forward search requests and supporting documentation to <b>Mississippi</b>-licensed <b>life insurance</b> companies within 30 business days of submission.",
+            "formattedUrl": "https://www.mid.ms.gov/mississippi-insurance.../life-insurance-policy-locat...",
+            "htmlFormattedUrl": "https://www.mid.ms.gov/<b>mississippi</b>-<b>insurance</b>.../<b>life</b>-<b>insurance</b>-policy-locat...",
             "pagemap": {
+                "website": [
+                    {
+                        "url": "https://www.mid.ms.gov/"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
                 "metatags": [
                     {
-                        "site_name": "Southern Farm Bureau Life Insurance Company",
-                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0"
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Official Website of the Mississippi Insurance Department",
+                        "og:title": "Life Insurance Policy Locator Service - Official Website of the Mississippi Insurance Department",
+                        "apple-mobile-web-app-title": "Official Website of the Mississippi Insurance Department -",
+                        "twitter:label1": "Est. reading time",
+                        "og:description": "Mississippi Insurance Department Life Policy Locator service assists Mississippi residents, and the families of deceased Mississippi residents, in locating lost insurance policies that were purchased in the state. The search identifies the existence of any life insurance policies or annuity contracts that were purchased in Mississippi and issued on the life of or owned by, [...]Read More... from Life Insurance Policy Locator ServiceRead More from Life Insurance Policy Locator Service",
+                        "article:publisher": "https://www.facebook.com/MSInsuranceDept",
+                        "twitter:data1": "2 minutes",
+                        "twitter:site": "@MSInsuranceDept",
+                        "article:modified_time": "2024-06-21T19:07:21+00:00",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:locale": "en_US",
+                        "mobile-web-app-capable": "yes",
+                        "position": "1",
+                        "og:url": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/life-insurance-policy-locator-services/"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Report of Examination of SOUTHERN FARM BUREAU LIFE ...",
-            "htmlTitle": "Report of Examination of <b>SOUTHERN FARM BUREAU LIFE</b> ...",
-            "link": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
-            "displayLink": "www.mid.ms.gov",
-            "snippet": "Southern Farm Bureau Life Insurance Company. MID Examination as of December ... located in counties of the states in which business was conducted.",
-            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company</b>. MID Examination as of December ... <b>located</b> in counties of the states in which <b>business</b> was conducted.",
-            "formattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
-            "htmlFormattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
+            "title": "Insurance | Mississippi Department of Finance and Administration",
+            "htmlTitle": "<b>Insurance</b> | <b>Mississippi</b> Department of Finance and Administration",
+            "link": "https://www.dfa.ms.gov/insurance",
+            "displayLink": "www.dfa.ms.gov",
+            "snippet": "... health insurance benefits that will take effect January 1, 2025. Bert Emrick ... The Mississippi State and School Employees' Life and Health Insurance\u00a0...",
+            "htmlSnippet": "... health <b>insurance</b> benefits that <b>will</b> take effect January 1, 2025. Bert Emrick ... The <b>Mississippi</b> State and School Employees&#39; <b>Life</b> and Health <b>Insurance</b>&nbsp;...",
+            "formattedUrl": "https://www.dfa.ms.gov/insurance",
+            "htmlFormattedUrl": "https://www.dfa.ms.gov/<b>insurance</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6U4x4C1ZrZGAo_eAK9dj4W8PPBLMZqVTGKXk-cHgRfFVI8Iz27WrjwQ&s",
-                        "width": "222",
-                        "height": "227"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiUxuQwAjJcNBtVeAwQwAi0QZ6pIBnrTRmWcIGB00cPFdo7eHT4qK5rM&s",
+                        "width": "269",
+                        "height": "187"
                     }
                 ],
                 "metatags": [
                     {
-                        "moddate": "D:20200630161256-05'00'",
-                        "creationdate": "D:20200622092311-05'00'",
-                        "creator": "Acrobat PDFMaker 11 for Word",
-                        "sourcemodified": "D:20200619212727",
-                        "author": "Dale Miller",
-                        "producer": "Adobe PDF Library 11.0",
-                        "company": "mid",
-                        "nativelinkconverted": "1"
+                        "handheldfriendly": "true",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "mobileoptimized": "width"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "x-raw-image:///7889504f51e4364e7538c1aa00ff1be080ad4bbee0184d43427565ca5b004e12"
+                        "src": "https://www.dfa.ms.gov/sites/default/files/Insurance%20Home/Images/Home%20Page/image1_dev.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Best Life Insurance Companies in Mississippi (2024) - Policygenius",
+            "htmlTitle": "Best <b>Life Insurance</b> Companies in <b>Mississippi</b> (2024) - Policygenius",
+            "link": "https://www.policygenius.com/life-insurance/mississippi/",
+            "displayLink": "www.policygenius.com",
+            "snippet": "Feb 12, 2024 ... Best whole life insurance in Mississippi: MassMutual. The best whole life insurance company in Mississippi is MassMutual, thanks to its high\u00a0...",
+            "htmlSnippet": "Feb 12, 2024 <b>...</b> Best whole <b>life insurance in Mississippi</b>: MassMutual. The best whole <b>life insurance</b> company in <b>Mississippi</b> is MassMutual, thanks to its high&nbsp;...",
+            "formattedUrl": "https://www.policygenius.com/life-insurance/mississippi/",
+            "htmlFormattedUrl": "https://www.policygenius.com/<b>life</b>-<b>insurance</b>/<b>mississippi</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5BMhO-7tzkqMuE_ZLSDvtGMKaRE5FMNZ-MWfmlOpIVwfTotlduJ5LZY&s",
+                        "width": "311",
+                        "height": "162"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.ctfassets.net/3uw9cov4u60w/7spRBIgdZ4it1OBDqnQ7TY/375ce2004d9932aca4fe261f56b0e078/2023-05_Pg-Share-Life-Insurance_1200x628.jpg",
+                        "theme-color": "#fff",
+                        "og:type": "Article",
+                        "twitter:card": "summary_large_image",
+                        "og:image:width": "1200",
+                        "og:site_name": "Policygenius",
+                        "og:title": "Best Life Insurance Companies in Mississippi (2024) - Policygenius",
+                        "og:image:height": "628",
+                        "language": "English",
+                        "og:description": "The best life insurance companies in Mississippi are Legal & General America, Brighthouse Financial, MassMutual, Lincoln Financial, Pacific Life, Corebridge Financial, and Prudential.",
+                        "twitter:image": "https://images.ctfassets.net/3uw9cov4u60w/7spRBIgdZ4it1OBDqnQ7TY/375ce2004d9932aca4fe261f56b0e078/2023-05_Pg-Share-Life-Insurance_1200x628.jpg",
+                        "twitter:site": "@policygenius",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "The best life insurance companies in Mississippi are Legal & General America, Brighthouse Financial, MassMutual, Lincoln Financial, Pacific Life, Corebridge Financial, and Prudential.",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.policygenius.com/life-insurance/mississippi/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.ctfassets.net/3uw9cov4u60w/7spRBIgdZ4it1OBDqnQ7TY/375ce2004d9932aca4fe261f56b0e078/2023-05_Pg-Share-Life-Insurance_1200x628.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Long-Term Care Insurance - Mississippi Insurance Department",
+            "htmlTitle": "Long-Term Care Insurance - Mississippi Insurance Department",
+            "link": "https://apps.mid.ms.gov/consumers/long-term-care-insurance.aspx",
+            "displayLink": "apps.mid.ms.gov",
+            "snippet": "Whether you should buy long-term care insurance depends on your age and life expectancy, gender, family situation, health status, income and assets. Age and\u00a0...",
+            "htmlSnippet": "Whether you <b>should buy</b> long-term care <b>insurance</b> depends on your age and <b>life</b> expectancy, gender, family situation, health status, income and assets. Age and&nbsp;...",
+            "formattedUrl": "https://apps.mid.ms.gov/consumers/long-term-care-insurance.aspx",
+            "htmlFormattedUrl": "https://apps.mid.ms.gov/consumers/long-term-care-<b>insurance</b>.aspx",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_b4nBeOGNnEYmYkhWWOV-t0esqMyBjJtITN-WjKk6E-6KQmdv7vj8Snd1&s",
+                        "width": "341",
+                        "height": "148"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "http://www.mid.ms.gov/images/COI-Seal-186x185.png",
+                        "viewport": "width=1185"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://apps.mid.ms.gov/images/comm-seal-img-new-519x225.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "PERS of Mississippi Senior Term Life Insurance Plan",
+            "htmlTitle": "PERS of <b>Mississippi</b> Senior Term <b>Life Insurance</b> Plan",
+            "link": "https://www.pers.ms.gov/Content/Insurance%20Forms/PERS_Sponsored_Senior_Term_Life_Insurance_Plan.pdf",
+            "displayLink": "www.pers.ms.gov",
+            "snippet": "Protect the people you love with coverage you can trust. Get simple, competitively-priced senior term life insurance\u2014exclusively for PERS of Mississippi\u00a0...",
+            "htmlSnippet": "Protect the people you love with coverage you <b>can</b> trust. <b>Get</b> simple, competitively-priced senior term <b>life insurance</b>\u2014exclusively for PERS of <b>Mississippi</b>&nbsp;...",
+            "formattedUrl": "https://www.pers.ms.gov/.../Insurance%20Forms/PERS_Sponsored_Senior_...",
+            "htmlFormattedUrl": "https://www.pers.ms.gov/.../<b>Insurance</b>%20Forms/PERS_Sponsored_Senior_...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCg9M6CBxba3AciWmrQjgZf3f9TlvqlOlatFvt0OeBchNyNgCKRR8mOSv&s",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20190605111052-07'00'",
+                        "creationdate": "D:20190605103019-07'00'",
+                        "creator": "Adobe InDesign CC 14.0 (Macintosh)",
+                        "producer": "Adobe PDF Library 15.0"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///e5a2385d7140ddad6fa7cda33db536a7392cf09a31b173405bed63b7590a46a2"
                     }
                 ]
             },
             "mime": "application/pdf",
             "fileFormat": "PDF/Adobe Acrobat"
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mississippi Car Insurance | Get a Quote | Liberty Mutual",
+            "htmlTitle": "<b>Mississippi</b> Car <b>Insurance</b> | <b>Get</b> a Quote | Liberty Mutual",
+            "link": "https://www.libertymutual.com/vehicle/auto-insurance/state/mississippi",
+            "displayLink": "www.libertymutual.com",
+            "snippet": "auto insurance. Need car insurance in Mississippi? Whether you live on the Gulfport or Jackson, Liberty Mutual Insurance can help you save\u00a0...",
+            "htmlSnippet": "auto <b>insurance</b>. Need car <b>insurance in Mississippi</b>? Whether you <b>live</b> on the Gulfport or Jackson, Liberty Mutual <b>Insurance can</b> help you save&nbsp;...",
+            "formattedUrl": "https://www.libertymutual.com/vehicle/auto-insurance/state/mississippi",
+            "htmlFormattedUrl": "https://www.libertymutual.com/vehicle/auto-<b>insurance</b>/state/<b>mississippi</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbhOQHJU6-tpg2PXWfJ6Cz93xGVDjxZhR36hdl5daoPsmmfG4zO1Rkf5g&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.libertymutual.com/static/liberty-social-icon.png",
+                        "og:type": "website",
+                        "twitter:card": "summary",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                        "og:title": "Mississippi Car Insurance | Get a Quote | Liberty Mutual",
+                        "og:url": "https://www.libertymutual.com/vehicle/auto-insurance/state/mississippi",
+                        "version": "0.143.49",
+                        "og:description": "Need car insurance in Mississippi? We'll help you find the right MS auto coverage and discounts to help you save. Get a free online quote in less than 10 minutes."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.libertymutual.com/static/liberty-social-icon.png"
+                    }
+                ]
+            }
         }
     ]
 }

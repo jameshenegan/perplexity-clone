@@ -1,12 +1,12 @@
 {
-    "id": "chatcmpl-AZmKdSKePwyEAgrozOOWxitVmOt9N",
+    "id": "chatcmpl-AZmMZ9KAfSF100JwNVcXO0G7ogk3w",
     "choices": [
         {
             "finish_reason": "stop",
             "index": 0,
             "logprobs": null,
             "message": {
-                "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, Mississippi, 39213.",
+                "content": "You can buy life insurance in Mississippi from Southern Farm Bureau Life Insurance Company. They offer a range of life insurance products, including both permanent and term life insurance options. \n\nSouthern Farm Bureau Life Insurance Company highlights its commitment to providing competitive products, superior customer support, and maintaining high ethical standards. \n\nFor more information, you can contact them via the following:\n- **Address**: 1401 Livingston Lane, Jackson, MS 39213\n- **Phone**: Customer Service - 601-981-7422, Death Claims - 1-800-562-0919, Policy Service - 1-800-457-9611\n- **Website**: [sfbli.com](https://www.sfbli.com)",
                 "refusal": null,
                 "role": "assistant",
                 "audio": null,
@@ -15,15 +15,15 @@
             }
         }
     ],
-    "created": 1733090631,
+    "created": 1733090751,
     "model": "gpt-4o-2024-08-06",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": "fp_831e067d82",
     "usage": {
-        "completion_tokens": 23,
-        "prompt_tokens": 133,
-        "total_tokens": 156,
+        "completion_tokens": 150,
+        "prompt_tokens": 241,
+        "total_tokens": 391,
         "completion_tokens_details": {
             "accepted_prediction_tokens": 0,
             "audio_tokens": 0,
