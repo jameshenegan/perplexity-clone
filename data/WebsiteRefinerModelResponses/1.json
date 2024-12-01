@@ -1,13 +1,13 @@
 [
     {
-        "id": "chatcmpl-AZmIikKFjKVtOc4NzFBD6mOh75PSB",
+        "id": "chatcmpl-AZmKMmY5Sn0EzcfpIOGof1fdIbNij",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
+                    "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -16,54 +16,15 @@
                 }
             }
         ],
-        "created": 1733090512,
+        "created": 1733090614,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 12,
-            "prompt_tokens": 93,
-            "total_tokens": 105,
-            "completion_tokens_details": {
-                "accepted_prediction_tokens": 0,
-                "audio_tokens": 0,
-                "reasoning_tokens": 0,
-                "rejected_prediction_tokens": 0
-            },
-            "prompt_tokens_details": {
-                "audio_tokens": 0,
-                "cached_tokens": 0
-            }
-        },
-        "link": "https://w3.sfbcic.com/"
-    },
-    {
-        "id": "chatcmpl-AZmIjzTRSisMM2QPDjpFqodTXE48G",
-        "choices": [
-            {
-                "finish_reason": "stop",
-                "index": 0,
-                "logprobs": null,
-                "message": {
-                    "content": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT",
-                    "refusal": null,
-                    "role": "assistant",
-                    "audio": null,
-                    "function_call": null,
-                    "tool_calls": null
-                }
-            }
-        ],
-        "created": 1733090513,
-        "model": "gpt-4o-mini-2024-07-18",
-        "object": "chat.completion",
-        "service_tier": null,
-        "system_fingerprint": "fp_0705bf87c0",
-        "usage": {
-            "completion_tokens": 12,
-            "prompt_tokens": 277,
-            "total_tokens": 289,
+            "completion_tokens": 22,
+            "prompt_tokens": 275,
+            "total_tokens": 297,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -78,7 +39,7 @@
         "link": "https://www.sfbli.com/"
     },
     {
-        "id": "chatcmpl-AZmIjORlinhn2ipyBIUedo2EmUfYg",
+        "id": "chatcmpl-AZmKOzxEOuirzhSldQ7Lkejm17bf0",
         "choices": [
             {
                 "finish_reason": "stop",
@@ -94,15 +55,15 @@
                 }
             }
         ],
-        "created": 1733090513,
+        "created": 1733090616,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
             "completion_tokens": 12,
-            "prompt_tokens": 10603,
-            "total_tokens": 10615,
+            "prompt_tokens": 91,
+            "total_tokens": 103,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -114,17 +75,17 @@
                 "cached_tokens": 0
             }
         },
-        "link": "https://casetext.com/case/whitmire-v-s-farm-bureau-life-ins-co-1"
+        "link": "https://w3.sfbcic.com/"
     },
     {
-        "id": "chatcmpl-AZmIlnUIMsEqfpIUYxLoM6FqWh11z",
+        "id": "chatcmpl-AZmKOSsgV65KnbuLCELSAf5wX0iVI",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "'THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT'",
+                    "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213.",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -133,15 +94,15 @@
                 }
             }
         ],
-        "created": 1733090515,
+        "created": 1733090616,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_0705bf87c0",
         "usage": {
-            "completion_tokens": 14,
-            "prompt_tokens": 30179,
-            "total_tokens": 30193,
+            "completion_tokens": 22,
+            "prompt_tokens": 436,
+            "total_tokens": 458,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -153,10 +114,10 @@
                 "cached_tokens": 0
             }
         },
-        "link": "https://www.sfbli.com/Docs/privacy.pdf"
+        "link": "https://www.sfbli.com/loginregister"
     },
     {
-        "id": "chatcmpl-AZmImA0NQThMGcCzsX3qFZ6iy3xAN",
+        "id": "chatcmpl-AZmKPLfkAKr6hHGqiIZvcF9Aw8yWP",
         "choices": [
             {
                 "finish_reason": "stop",
@@ -172,15 +133,15 @@
                 }
             }
         ],
-        "created": 1733090516,
+        "created": 1733090617,
         "model": "gpt-4o-mini-2024-07-18",
         "object": "chat.completion",
         "service_tier": null,
-        "system_fingerprint": "fp_0705bf87c0",
+        "system_fingerprint": "fp_3de1288069",
         "usage": {
             "completion_tokens": 12,
-            "prompt_tokens": 8133,
-            "total_tokens": 8145,
+            "prompt_tokens": 82,
+            "total_tokens": 94,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,
@@ -192,6 +153,45 @@
                 "cached_tokens": 0
             }
         },
-        "link": "https://www.tdi.texas.gov/company/top40.html"
+        "link": "https://www.linkedin.com/company/southern-farm-bureau"
+    },
+    {
+        "id": "chatcmpl-AZmKPA58nd3zK32QsETI23aANxeXl",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingstone Lane, Jackson, MS 39213.",
+                    "refusal": null,
+                    "role": "assistant",
+                    "audio": null,
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1733090617,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_0705bf87c0",
+        "usage": {
+            "completion_tokens": 23,
+            "prompt_tokens": 402,
+            "total_tokens": 425,
+            "completion_tokens_details": {
+                "accepted_prediction_tokens": 0,
+                "audio_tokens": 0,
+                "reasoning_tokens": 0,
+                "rejected_prediction_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": 0,
+                "cached_tokens": 0
+            }
+        },
+        "link": "https://www.sfbli.com/contactus"
     }
 ]

@@ -7,9 +7,9 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - When did Southern Farm Bureau Life Insurance Company begin doing business?",
-                "totalResults": "36600000",
-                "searchTerms": "When did Southern Farm Bureau Life Insurance Company begin doing business?",
+                "title": "Google Custom Search - Where is Southern Farm Bureau Life Insurance Company located?",
+                "totalResults": "14600000",
+                "searchTerms": "Where is Southern Farm Bureau Life Insurance Company located?",
                 "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
         ],
         "nextPage": [
             {
-                "title": "Google Custom Search - When did Southern Farm Bureau Life Insurance Company begin doing business?",
-                "totalResults": "36600000",
-                "searchTerms": "When did Southern Farm Bureau Life Insurance Company begin doing business?",
+                "title": "Google Custom Search - Where is Southern Farm Bureau Life Insurance Company located?",
+                "totalResults": "14600000",
+                "searchTerms": "Where is Southern Farm Bureau Life Insurance Company located?",
                 "count": 10,
                 "startIndex": 11,
                 "inputEncoding": "utf8",
@@ -36,24 +36,41 @@
         "title": "search-demo"
     },
     "searchInformation": {
-        "searchTime": 0.392227,
-        "formattedSearchTime": "0.39",
-        "totalResults": "36600000",
-        "formattedTotalResults": "36,600,000"
-    },
-    "spelling": {
-        "correctedQuery": "When did Southern Farm Bureau Life Insurance Company began doing business?",
-        "htmlCorrectedQuery": "When did Southern Farm Bureau Life Insurance Company <b><i>began</i></b> doing business?"
+        "searchTime": 0.256033,
+        "formattedSearchTime": "0.26",
+        "totalResults": "14600000",
+        "formattedTotalResults": "14,600,000"
     },
     "items": [
         {
             "kind": "customsearch#result",
+            "title": "Southern Farm Bureau Life Insurance Company",
+            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b>",
+            "link": "https://www.sfbli.com/",
+            "displayLink": "www.sfbli.com",
+            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer\u00a0...",
+            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer&nbsp;...",
+            "formattedUrl": "https://www.sfbli.com/",
+            "htmlFormattedUrl": "https://www.sfbli.com/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "site_name": "Southern Farm Bureau Life Insurance Company",
+                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "title": "Southern Farm Bureau Life Insurance Company: Home"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
             "title": "Southern Farm Bureau Casualty Insurance Company: Home",
-            "htmlTitle": "<b>Southern Farm Bureau</b> Casualty <b>Insurance Company</b>: Home",
+            "htmlTitle": "<b>Southern Farm Bureau Casualty Insurance Company</b>: Home",
             "link": "https://w3.sfbcic.com/",
             "displayLink": "w3.sfbcic.com",
-            "snippet": "Southern Farm Bureau Casualty Insurance Company is headquartered in Ridgeland, Mississippi.",
-            "htmlSnippet": "<b>Southern Farm Bureau</b> Casualty <b>Insurance Company</b> is headquartered <b>in</b> Ridgeland, Mississippi.",
+            "snippet": "Download the MOBILE agent App. MOBILE agent offers on-the-go convenience with 24/7 access to account information. Review your policies, report a claim, contact\u00a0...",
+            "htmlSnippet": "Download the MOBILE agent App. MOBILE agent offers on-the-go convenience with 24/7 access to account information. Review your policies, report a claim, contact&nbsp;...",
             "formattedUrl": "https://w3.sfbcic.com/",
             "htmlFormattedUrl": "https://w3.sfbcic.com/",
             "pagemap": {
@@ -90,224 +107,91 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Life Insurance Company",
-            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b>",
-            "link": "https://www.sfbli.com/",
+            "title": "Southern Farm Bureau Life Insurance",
+            "htmlTitle": "<b>Southern Farm Bureau Life Insurance</b>",
+            "link": "https://www.sfbli.com/loginregister",
             "displayLink": "www.sfbli.com",
-            "snippet": "Southern Farm Bureau Life Insurance Company. For over 75 years, our mission is to be the life insurance company of choice for our Farm Bureau family.",
-            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company</b>. For over 75 years, our mission is to be the <b>life insurance company</b> of choice for our Farm Bureau family.",
-            "formattedUrl": "https://www.sfbli.com/",
-            "htmlFormattedUrl": "https://www.sfbli.com/",
+            "snippet": "For any questions, please contact our Policy Service Department at 1-800-457-9611. Our representatives are available Monday through Friday from 8:00 AM to 4:30\u00a0...",
+            "htmlSnippet": "For any questions, please contact our Policy Service Department at 1-800-457-9611. Our representatives are available Monday through Friday from 8:00 AM to 4:30&nbsp;...",
+            "formattedUrl": "https://www.sfbli.com/loginregister",
+            "htmlFormattedUrl": "https://www.sfbli.com/loginregister",
             "pagemap": {
                 "metatags": [
                     {
                         "site_name": "Southern Farm Bureau Life Insurance Company",
                         "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "title": "Southern Farm Bureau Life Insurance Company: Home"
+                        "viewport": "width=device-width, initial-scale=1.0"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Whitmire v. S. Farm Bureau Life Ins. Co., 52 F.4th 153 | Casetext ...",
-            "htmlTitle": "Whitmire v. S. <b>Farm Bureau Life</b> Ins. <b>Co</b>., 52 F.4th 153 | Casetext ...",
-            "link": "https://casetext.com/case/whitmire-v-s-farm-bureau-life-ins-co-1",
-            "displayLink": "casetext.com",
-            "snippet": "Oct 26, 2022 ... Whitmire's life insurance policy was sent to that address. In November 2016, Farm Bureau sent its semiannual bill to Ms. Whitmire at her South\u00a0...",
-            "htmlSnippet": "Oct 26, 2022 <b>...</b> Whitmire&#39;s <b>life insurance</b> policy <b>was</b> sent to that address. <b>In</b> November 2016, <b>Farm Bureau</b> sent its semiannual bill to Ms. Whitmire at her <b>South</b>&nbsp;...",
-            "formattedUrl": "https://casetext.com/case/whitmire-v-s-farm-bureau-life-ins-co-1",
-            "htmlFormattedUrl": "https://casetext.com/case/whitmire-v-s-<b>farm</b>-<b>bureau</b>-<b>life</b>-ins-co-1",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY",
-            "htmlTitle": "<b>SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY</b>",
-            "link": "https://www.sfbli.com/Docs/privacy.pdf",
-            "displayLink": "www.sfbli.com",
-            "snippet": "We do not sell lists of our policyholders, nor do we disclose policyholder information to marketing companies outside the Farm. Bureau family of companies, with\u00a0...",
-            "htmlSnippet": "We <b>do</b> not sell lists of our policyholders, nor <b>do</b> we disclose policyholder information to marketing <b>companies</b> outside the <b>Farm</b>. <b>Bureau</b> family of <b>companies</b>, with&nbsp;...",
-            "formattedUrl": "https://www.sfbli.com/Docs/privacy.pdf",
-            "htmlFormattedUrl": "https://www.sfbli.com/Docs/privacy.pdf",
-            "pagemap": {
-                "metatags": [
-                    {
-                        "moddate": "D:20101005145228-05'00'",
-                        "creationdate": "D:20010622152329Z",
-                        "creator": "QuarkXPress(tm) 4.1",
-                        "author": "Christine",
-                        "producer": "Acrobat Distiller 4.0 for Macintosh",
-                        "title": "AV072"
-                    }
-                ]
-            },
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Top-40 list of insurers in Texas",
-            "htmlTitle": "Top-40 list of insurers <b>in</b> Texas",
-            "link": "https://www.tdi.texas.gov/company/top40.html",
-            "displayLink": "www.tdi.texas.gov",
-            "snippet": "Apr 3, 2024 ... Southern Farm Bureau Life Insurance Company, 209,714,697, 1.38. 23, 62235, Unum Life Insurance Company of America, 189,536,673, 1.25. 24, 71129\u00a0...",
-            "htmlSnippet": "Apr 3, 2024 <b>...</b> <b>Southern Farm Bureau Life Insurance Company</b>, 209,714,697, 1.38. 23, 62235, Unum <b>Life Insurance Company</b> of America, 189,536,673, 1.25. 24, 71129&nbsp;...",
-            "formattedUrl": "https://www.tdi.texas.gov/company/top40.html",
-            "htmlFormattedUrl": "https://www.tdi.texas.gov/<b>company</b>/top40.html",
+            "title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
+            "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b> | LinkedIn",
+            "link": "https://www.linkedin.com/company/southern-farm-bureau",
+            "displayLink": "www.linkedin.com",
+            "snippet": "Southern Farm Bureau Life Insurance Company | 5690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company\u00a0...",
+            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company</b> | 5690 followers on LinkedIn. Your Friends for Life | <b>Southern Farm Bureau Life Insurance Company</b> is a <b>company</b>&nbsp;...",
+            "formattedUrl": "https://www.linkedin.com/company/southern-farm-bureau",
+            "htmlFormattedUrl": "https://www.linkedin.com/<b>company</b>/<b>southern</b>-<b>farm</b>-<b>bureau</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROzYsNYR7A4o4gv9wzc52SpbIMgJ9f4gFD9DLoZpQiDl3nsaI0w9VAzBI&s",
-                        "width": "318",
-                        "height": "159"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOBpuMQZv31d7As0a4PUGABcYfy804m8tJVGpz0OUc07k7r8Xq187-P_F&s",
+                        "width": "200",
+                        "height": "200"
                     }
                 ],
                 "metatags": [
                     {
-                        "og:image": "https://www.tdi.texas.gov/_files/artwork/color-logo-1200.jpg",
-                        "twitter:title": "Top-40 list of insurers in Texas",
+                        "og:image": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc",
                         "og:type": "article",
-                        "twitter:card": "summary_large_image",
-                        "og:site_name": "Texas Department of Insurance",
-                        "og:title": "Top-40 list of insurers in Texas",
-                        "pageid": "4ca36eee0a2295fe0fa2c53f60958f5b",
-                        "og:description": "Top 40 List of Insurers in Texas",
-                        "twitter:image": "https://www.tdi.texas.gov/_files/artwork/color-logo-1200.jpg",
-                        "twitter:site": "@TexasTDI",
+                        "twitter:card": "summary",
+                        "twitter:title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
+                        "clientsideingraphs": "1",
+                        "al:ios:app_name": "LinkedIn",
+                        "linkedin:pagetag": "noncanonical_subdomain=control",
+                        "og:title": "Southern Farm Bureau Life Insurance Company | LinkedIn",
+                        "al:android:package": "com.linkedin.android",
+                        "pagekey": "p_org_guest_company_overview",
+                        "bingbot": "nocache",
+                        "locale": "en_US",
+                        "al:ios:url": "https://www.linkedin.com/company/southern-farm-bureau",
+                        "og:description": "Southern Farm Bureau Life Insurance Company | 5,690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company that cares about people. We care for our home office employees, our policyholders, our community, and the agents who sell our products. Putting people first is always top of mind.",
+                        "al:ios:app_store_id": "288429040",
+                        "twitter:image": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc",
+                        "al:android:url": "https://www.linkedin.com/company/southern-farm-bureau",
+                        "twitter:site": "@linkedin",
                         "viewport": "width=device-width, initial-scale=1.0",
-                        "twitter:description": "Top 40 List of Insurers in Texas",
-                        "og:url": "https://www.tdi.texas.gov/company/top40.html"
+                        "twitter:description": "Southern Farm Bureau Life Insurance Company | 5,690 followers on LinkedIn. Your Friends for Life | Southern Farm Bureau Life Insurance Company is a company that cares about people. We care for our home office employees, our policyholders, our community, and the agents who sell our products. Putting people first is always top of mind.",
+                        "og:url": "https://www.linkedin.com/company/southern-farm-bureau",
+                        "al:android:app_name": "LinkedIn"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://www.tdi.texas.gov/_files/artwork/color-logo-1200.jpg"
+                        "src": "https://media.licdn.com/dms/image/v2/C560BAQG6coYyU9lA1w/company-logo_200_200/company-logo_200_200/0/1653919644158?e=2147483647&v=beta&t=f4xdk3Xjku52VAON3D9pVgT1s5mZfWCFcrvS6pUqihc"
                     }
                 ]
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Southern Farm Bureau Casualty Insurance Company",
-            "htmlTitle": "<b>Southern Farm Bureau</b> Casualty <b>Insurance Company</b>",
-            "link": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFBCIC-20.pdf",
-            "displayLink": "www.mid.ms.gov",
-            "snippet": "... business was providing property and casualty insurance coverage in ... Further, the Company assumed automobile business from Farm Bureau mutual companies in the\u00a0...",
-            "htmlSnippet": "... <b>business was</b> providing property and casualty <b>insurance</b> coverage <b>in</b> ... Further, the <b>Company</b> assumed automobile <b>business</b> from <b>Farm Bureau mutual companies in</b> the&nbsp;...",
-            "formattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFBCIC-20.pdf",
-            "htmlFormattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFBCIC-20.pdf",
+            "title": "Contact Us - Southern Farm Bureau Life Insurance",
+            "htmlTitle": "Contact Us - <b>Southern Farm Bureau Life Insurance</b>",
+            "link": "https://www.sfbli.com/contactus",
+            "displayLink": "www.sfbli.com",
+            "snippet": "Our representatives are available Monday - Friday, 8:00 AM - 4:30 PM Central Time. ... Our Mission is to be the life insurance company of choice for our Farm\u00a0...",
+            "htmlSnippet": "Our representatives are available Monday - Friday, 8:00 AM - 4:30 PM Central Time. ... Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm</b>&nbsp;...",
+            "formattedUrl": "https://www.sfbli.com/contactus",
+            "htmlFormattedUrl": "https://www.sfbli.com/contactus",
             "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6U4x4C1ZrZGAo_eAK9dj4W8PPBLMZqVTGKXk-cHgRfFVI8Iz27WrjwQ&s",
-                        "width": "222",
-                        "height": "227"
-                    }
-                ],
                 "metatags": [
                     {
-                        "nativelinkconverted2": "1",
-                        "moddate": "D:20220722151704-05'00'",
-                        "creationdate": "D:20220617113714-05'00'",
-                        "creator": "Acrobat PDFMaker 22 for Word",
-                        "sourcemodified": "D:20220617163519",
-                        "author": "Mississippi Insurance Department",
-                        "producer": "Adobe PDF Library 22.1.149",
-                        "company": "mid",
-                        "title": "Southern Farm Bureau Casualty Insurance Company"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "x-raw-image:///7889504f51e4364e7538c1aa00ff1be080ad4bbee0184d43427565ca5b004e12"
-                    }
-                ]
-            },
-            "mime": "application/pdf",
-            "fileFormat": "PDF/Adobe Acrobat"
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Louisiana Farm Bureau\u00ae Insurance | Auto, Home, Life Insurance",
-            "htmlTitle": "Louisiana <b>Farm Bureau</b>\u00ae Insurance | Auto, Home, <b>Life Insurance</b>",
-            "link": "https://www.lafarmbureau.com/",
-            "displayLink": "www.lafarmbureau.com",
-            "snippet": "Farm Bureau's local agents live where you live and are invested in your ... Insurance Company; Southern Farm Bureau\u00ae Life Insurance Company, Jackson, Miss.",
-            "htmlSnippet": "Farm Bureau&#39;s local agents live where you live and are invested <b>in</b> your ... Insurance <b>Company</b>; <b>Southern Farm Bureau</b>\u00ae <b>Life Insurance Company</b>, Jackson, Miss.",
-            "formattedUrl": "https://www.lafarmbureau.com/",
-            "htmlFormattedUrl": "https://www.la<b>farmbureau</b>.com/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mrTENULiW4LcuHnHcHU3u-2r0vgRPOK8DtLPqSHSI8lEwD-wYisjILLm&s",
-                        "width": "267",
-                        "height": "189"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:type": "website",
-                        "twitter:card": "summary_large_image",
-                        "og:site_name": "Louisiana Farm Bureau\u00ae Insurance",
-                        "article:modified_time": "2023-10-13T20:44:45+00:00",
-                        "viewport": "width=device-width, initial-scale=1.0",
-                        "og:title": "Louisiana Farm Bureau\u00ae Insurance | Auto, Home, Life Insurance",
-                        "og:locale": "en_US",
-                        "og:url": "https://www.lafarmbureau.com/",
-                        "og:description": "Protecting families with local people, great rates, and friendly service."
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.lafarmbureau.com/wp-content/uploads/2021/02/SFBCIC-075_PromoTab_graphic_v01_d.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "Virginia Farm Bureau Insurance - Serving All Virginians",
-            "htmlTitle": "Virginia <b>Farm Bureau Insurance</b> - Serving All Virginians",
-            "link": "https://www.vafb.com/",
-            "displayLink": "www.vafb.com",
-            "snippet": "Though unexpected, the turmoil was the first step in ... Life insurance products are underwritten and provided by Southern Farm Bureau Life Insurance Company\u00a0...",
-            "htmlSnippet": "Though unexpected, the turmoil <b>was</b> the first step <b>in</b> ... <b>Life insurance</b> products are underwritten and provided by <b>Southern Farm Bureau Life Insurance Company</b>&nbsp;...",
-            "formattedUrl": "https://www.vafb.com/",
-            "htmlFormattedUrl": "https://www.vafb.com/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR41N-1iE40CZZgQ8JXzGEJ1K6ZRSwa0lzM-nmq56xaBKKBWDkCyDfVG15M&s",
-                        "width": "275",
-                        "height": "183"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "msvalidate.01": "274D73A990081702CA39ADEB3F0EEB9F",
-                        "viewport": "width=device-width,initial-scale=1",
-                        "rating": "GENERAL",
-                        "resource-type": "DOCUMENT"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://www.vafb.com/Portals/FBA/images/homepage/for-farmers-panel-heading.jpg"
-                    }
-                ],
-                "listitem": [
-                    {
-                        "item": "Home",
-                        "name": "Home",
-                        "position": "1"
+                        "site_name": "Southern Farm Bureau Life Insurance Company",
+                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
+                        "viewport": "width=device-width, initial-scale=1.0"
                     }
                 ]
             }
@@ -318,8 +202,8 @@
             "htmlTitle": "<b>Southern Farm Bureau Life Insurance Company</b> | Customer Success ...",
             "link": "https://www.splunk.com/en_us/customers/success-stories/southern-farm-bureau-life-insurance-company.html",
             "displayLink": "www.splunk.com",
-            "snippet": "With Splunk Attack Analyzer, SFBLI speeds up business operations and strengthens its overall security posture \u2014 lowering the risk of compromise\u00a0...",
-            "htmlSnippet": "With Splunk Attack Analyzer, SFBLI speeds up <b>business</b> operations and strengthens its overall security posture \u2014 lowering the risk of compromise&nbsp;...",
+            "snippet": "Southern Farm Bureau Life Insurance Company's (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales\u00a0...",
+            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company&#39;s</b> (SFBLI) solution for analyzing incoming submissions from its external facing web application slowed down sales&nbsp;...",
             "formattedUrl": "https://www.splunk.com/.../southern-farm-bureau-life-insurance-company....",
             "htmlFormattedUrl": "https://www.splunk.com/.../<b>southern</b>-<b>farm</b>-<b>bureau</b>-<b>life</b>-<b>insurance</b>-<b>company</b>....",
             "pagemap": {
@@ -363,45 +247,119 @@
         },
         {
             "kind": "customsearch#result",
-            "title": "Mississippi Farm Bureau Insurance: Auto, Home, Life, Farm & More",
-            "htmlTitle": "Mississippi <b>Farm Bureau Insurance</b>: Auto, Home, <b>Life</b>, <b>Farm</b> &amp; More",
-            "link": "https://msfbins.com/",
-            "displayLink": "msfbins.com",
-            "snippet": "Local Mississippi agents providing over 70s years of competitive insurance rates and fast, friendly service. Get a free, personalized quote!",
-            "htmlSnippet": "Local Mississippi agents providing over 70s years of competitive <b>insurance</b> rates and fast, friendly service. Get a free, personalized quote!",
-            "formattedUrl": "https://msfbins.com/",
-            "htmlFormattedUrl": "https://msfbins.com/",
+            "title": "Careers - Southern Farm Bureau Life Insurance",
+            "htmlTitle": "Careers - <b>Southern Farm Bureau Life Insurance</b>",
+            "link": "https://www.sfbli.com/Careers",
+            "displayLink": "www.sfbli.com",
+            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer service\u00a0...",
+            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer service&nbsp;...",
+            "formattedUrl": "https://www.sfbli.com/Careers",
+            "htmlFormattedUrl": "https://www.sfbli.com/Careers",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "site_name": "Southern Farm Bureau Life Insurance Company",
+                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
+                        "viewport": "width=device-width, initial-scale=1.0",
+                        "title": "Southern Farm Bureau Life Insurance Company: Careers"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Life Insurance | Farm Bureau Insurance",
+            "htmlTitle": "<b>Life Insurance</b> | <b>Farm Bureau</b> Insurance",
+            "link": "https://www.scfbins.com/insurance/other-products/life-insurance",
+            "displayLink": "www.scfbins.com",
+            "snippet": "Contact an agent today for more information. For a full list of life insurance products available, visit Southern Farm Bureau Life Insurance Company.",
+            "htmlSnippet": "Contact an agent today for more information. For a full list of <b>life insurance</b> products available, visit <b>Southern Farm Bureau Life Insurance Company</b>.",
+            "formattedUrl": "https://www.scfbins.com/insurance/other-products/life-insurance",
+            "htmlFormattedUrl": "https://www.scfbins.com/<b>insurance</b>/other-products/<b>life</b>-<b>insurance</b>",
             "pagemap": {
                 "cse_thumbnail": [
                     {
-                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvFCi89hxGH0mQjZH2kxy7pOtXoGv7vP5Ibcui1iZbbX8ZFchHCjbWHxY&s",
-                        "width": "311",
-                        "height": "162"
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejy5UPbUQl6qGGKq0lFvrrCTGe6asxN4MxXyTZNsL_R_ke6DmERcdfAY&s",
+                        "width": "310",
+                        "height": "163"
                     }
                 ],
                 "metatags": [
                     {
-                        "og:image": "https://msfbins.com/wp-content/uploads/2019/04/SFBCIC-Social_Link_Image_MS_2.jpg",
-                        "og:type": "website",
-                        "og:image:width": "1200",
+                        "og:image": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg",
                         "twitter:card": "summary_large_image",
-                        "og:site_name": "Mississippi Farm Bureau Insurance",
-                        "og:title": "Auto, Home, Life, Farm & More | Mississippi Farm Bureau Insurance",
-                        "og:image:height": "628",
-                        "og:image:type": "image/jpeg",
-                        "og:description": "Local Mississippi agents providing over 70s years of competitive insurance rates and fast, friendly service. Get a free, personalized quote!",
-                        "article:modified_time": "2019-11-12T20:20:42+00:00",
+                        "twitter:site": "@scfbins",
+                        "og:video": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg",
+                        "handheldfriendly": "true",
                         "viewport": "width=device-width, initial-scale=1.0",
-                        "og:locale": "en_US",
-                        "og:url": "https://msfbins.com/"
+                        "mobileoptimized": "width"
                     }
                 ],
                 "cse_image": [
                     {
-                        "src": "https://msfbins.com/wp-content/uploads/2019/04/SFBCIC-Social_Link_Image_MS_2.jpg"
+                        "src": "https://www.scfbins.com/sites/default/files/og_image/scfbi-og.jpg"
                     }
                 ]
             }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Find an Agent - Southern Farm Bureau Life Insurance",
+            "htmlTitle": "Find an Agent - <b>Southern Farm Bureau Life Insurance</b>",
+            "link": "https://sfbli.com/FindAnAgent/",
+            "displayLink": "sfbli.com",
+            "snippet": "Our Mission is to be the life insurance company of choice for our Farm Bureau family. Our focus is to provide competitive products and superior customer service\u00a0...",
+            "htmlSnippet": "Our Mission is to be the <b>life insurance company</b> of choice for our <b>Farm Bureau</b> family. Our focus is to provide competitive products and superior customer service&nbsp;...",
+            "formattedUrl": "https://sfbli.com/FindAnAgent/",
+            "htmlFormattedUrl": "https://sfbli.com/FindAnAgent/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "site_name": "Southern Farm Bureau Life Insurance Company",
+                        "p:domain_verify": "cbae03e072f28311ebf78ac7d52d93dc",
+                        "viewport": "width=device-width, initial-scale=1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Report of Examination of SOUTHERN FARM BUREAU LIFE ...",
+            "htmlTitle": "Report of Examination of <b>SOUTHERN FARM BUREAU LIFE</b> ...",
+            "link": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
+            "displayLink": "www.mid.ms.gov",
+            "snippet": "Southern Farm Bureau Life Insurance Company. MID Examination as of December ... located in counties of the states in which business was conducted.",
+            "htmlSnippet": "<b>Southern Farm Bureau Life Insurance Company</b>. MID Examination as of December ... <b>located</b> in counties of the states in which <b>business</b> was conducted.",
+            "formattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
+            "htmlFormattedUrl": "https://www.mid.ms.gov/wp-content/uploads/2023/04/SFB-18.pdf",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6U4x4C1ZrZGAo_eAK9dj4W8PPBLMZqVTGKXk-cHgRfFVI8Iz27WrjwQ&s",
+                        "width": "222",
+                        "height": "227"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "moddate": "D:20200630161256-05'00'",
+                        "creationdate": "D:20200622092311-05'00'",
+                        "creator": "Acrobat PDFMaker 11 for Word",
+                        "sourcemodified": "D:20200619212727",
+                        "author": "Dale Miller",
+                        "producer": "Adobe PDF Library 11.0",
+                        "company": "mid",
+                        "nativelinkconverted": "1"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "x-raw-image:///7889504f51e4364e7538c1aa00ff1be080ad4bbee0184d43427565ca5b004e12"
+                    }
+                ]
+            },
+            "mime": "application/pdf",
+            "fileFormat": "PDF/Adobe Acrobat"
         }
     ]
 }

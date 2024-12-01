@@ -1,13 +1,13 @@
 [
     {
-        "id": "chatcmpl-AZmJIcTYMAxLnBdqzE5tUpMzXOs4z",
+        "id": "chatcmpl-AZmKlZmPjRef2HfjO8Z7U65ILcZ6W",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Based on the search results provided, there is no relevant information regarding when Southern Farm Bureau Life Insurance Company began doing business. Therefore, I am unable to determine the company's start date from the available sources.",
+                    "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213 [1][3][5].",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -16,14 +16,14 @@
                 }
             }
         ],
-        "created": 1733090548,
+        "created": 1733090639,
         "model": "gpt-4o-2024-08-06",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_831e067d82",
         "usage": {
-            "completion_tokens": 40,
-            "prompt_tokens": 374,
+            "completion_tokens": 28,
+            "prompt_tokens": 386,
             "total_tokens": 414,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
@@ -39,14 +39,14 @@
         "improvement_method": 0
     },
     {
-        "id": "chatcmpl-AZmJJ6gBQ9AHARDnesuGt63ZicuiJ",
+        "id": "chatcmpl-AZmKm32bLVDEZDm8oNnC6DzaQ3V71",
         "choices": [
             {
                 "finish_reason": "stop",
                 "index": 0,
                 "logprobs": null,
                 "message": {
-                    "content": "Southern Farm Bureau Life Insurance Company began doing business in 1947 [2].",
+                    "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, Mississippi, 39213 [1][3][5].",
                     "refusal": null,
                     "role": "assistant",
                     "audio": null,
@@ -55,15 +55,15 @@
                 }
             }
         ],
-        "created": 1733090549,
+        "created": 1733090640,
         "model": "gpt-4o-2024-08-06",
         "object": "chat.completion",
         "service_tier": null,
         "system_fingerprint": "fp_831e067d82",
         "usage": {
-            "completion_tokens": 16,
-            "prompt_tokens": 376,
-            "total_tokens": 392,
+            "completion_tokens": 29,
+            "prompt_tokens": 387,
+            "total_tokens": 416,
             "completion_tokens_details": {
                 "accepted_prediction_tokens": 0,
                 "audio_tokens": 0,

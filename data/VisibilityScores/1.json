@@ -2,39 +2,39 @@
     {
         "improvement_method": 0,
         "scores": [
+            4.0,
             0,
+            4.0,
             0,
-            0,
-            0,
-            0
+            4.0
         ],
         "normalized_scores": [
-            0.2,
-            0.2,
-            0.2,
-            0.2,
-            0.2
+            0.3333333333333333,
+            0.0,
+            0.3333333333333333,
+            0.0,
+            0.3333333333333333
         ],
-        "sfblic_score": 0,
-        "normalized_sfblic_score": 0.2
+        "sfblic_score": 4.0,
+        "normalized_sfblic_score": 0.3333333333333333
     },
     {
         "improvement_method": 1,
         "scores": [
+            4.333333333333333,
             0,
-            10.0,
+            4.333333333333333,
             0,
-            0,
-            0
+            4.333333333333333
         ],
         "normalized_scores": [
+            0.3333333333333333,
             0.0,
-            1.0,
+            0.3333333333333333,
             0.0,
-            0.0,
-            0.0
+            0.3333333333333333
         ],
-        "sfblic_score": 10.0,
-        "normalized_sfblic_score": 1.0
+        "sfblic_score": 4.333333333333333,
+        "normalized_sfblic_score": 0.3333333333333333
     }
 ]

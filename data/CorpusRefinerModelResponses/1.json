@@ -1,12 +1,12 @@
 {
-    "id": "chatcmpl-AZmIrDXoXeXo4fYIqyhGdM4f06JZH",
+    "id": "chatcmpl-AZmKXe74EZUW9reRDgLTvW2ckJAiz",
     "choices": [
         {
             "finish_reason": "stop",
             "index": 0,
             "logprobs": null,
             "message": {
-                "content": "Southern Farm Bureau Life Insurance Company was chartered in 1946 and began operations in 1947.",
+                "content": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213.",
                 "refusal": null,
                 "role": "assistant",
                 "audio": null,
@@ -15,15 +15,15 @@
             }
         }
     ],
-    "created": 1733090521,
+    "created": 1733090625,
     "model": "gpt-4o-mini-2024-07-18",
     "object": "chat.completion",
     "service_tier": null,
     "system_fingerprint": "fp_0705bf87c0",
     "usage": {
-        "completion_tokens": 21,
-        "prompt_tokens": 4783,
-        "total_tokens": 4804,
+        "completion_tokens": 22,
+        "prompt_tokens": 4781,
+        "total_tokens": 4803,
         "completion_tokens_details": {
             "accepted_prediction_tokens": 0,
             "audio_tokens": 0,

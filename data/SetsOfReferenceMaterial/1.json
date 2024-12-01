@@ -3,24 +3,24 @@
         "improvement_method": 0,
         "set_of_reference_material": [
             {
+                "link": "https://www.sfbli.com/",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213."
+            },
+            {
                 "link": "https://w3.sfbcic.com/",
                 "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
             },
             {
-                "link": "https://www.sfbli.com/",
+                "link": "https://www.sfbli.com/loginregister",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213."
+            },
+            {
+                "link": "https://www.linkedin.com/company/southern-farm-bureau",
                 "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
             },
             {
-                "link": "https://casetext.com/case/whitmire-v-s-farm-bureau-life-ins-co-1",
-                "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
-            },
-            {
-                "link": "https://www.sfbli.com/Docs/privacy.pdf",
-                "information": "'THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT'"
-            },
-            {
-                "link": "https://www.tdi.texas.gov/company/top40.html",
-                "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
+                "link": "https://www.sfbli.com/contactus",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingstone Lane, Jackson, MS 39213."
             }
         ]
     },
@@ -28,24 +28,24 @@
         "improvement_method": 1,
         "set_of_reference_material": [
             {
+                "link": "https://www.sfbli.com/",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, Mississippi, 39213."
+            },
+            {
                 "link": "https://w3.sfbcic.com/",
                 "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
             },
             {
-                "link": "https://www.sfbli.com/",
-                "information": "Southern Farm Bureau Life Insurance Company began doing business in 1947."
+                "link": "https://www.sfbli.com/loginregister",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingston Lane, Jackson, MS 39213."
             },
             {
-                "link": "https://casetext.com/case/whitmire-v-s-farm-bureau-life-ins-co-1",
+                "link": "https://www.linkedin.com/company/southern-farm-bureau",
                 "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
             },
             {
-                "link": "https://www.sfbli.com/Docs/privacy.pdf",
-                "information": "'THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT'"
-            },
-            {
-                "link": "https://www.tdi.texas.gov/company/top40.html",
-                "information": "THERE IS NO RELEVANT INFORMATION IN THE RAW TEXT"
+                "link": "https://www.sfbli.com/contactus",
+                "information": "Southern Farm Bureau Life Insurance Company is located at 1401 Livingstone Lane, Jackson, MS 39213."
             }
         ]
     }
