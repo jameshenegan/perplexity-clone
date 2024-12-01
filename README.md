@@ -11,16 +11,6 @@ cd ../..
 python -m jupyterlab
 ```
 
-## Computing Visibility Scores
-
-Given
-
-- a set of reference material
-- a response from the writer citer model
-  compute a visibility score for SFBLIC in the response from the writer citer model.
-
-Figure out which number corresponds to SFBLIC.
-
 ## Next Steps
 
 - Add additional improvement methods
