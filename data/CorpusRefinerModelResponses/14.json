@@ -1,0 +1,38 @@
+{
+    "id": "chatcmpl-AZfcMgF54RPwCbROK08TXhfEbqbcS",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "Life insurance is a contract between an insurance company and the policyholder. In exchange for a premium, the life insurance company agrees to pay a sum of money to one or more named beneficiaries upon the death of the policyholder. The purpose of life insurance is to provide financial security to your loved ones upon your death. \n\nLife insurance is important because it protects your spouse and children from potentially devastating financial losses if something happens to you. It provides financial security, helps pay off debts, living expenses, and any medical or final expenses. The policy delivers a specified sum of money upon your death, which is generally not subject to federal income taxes, ensuring that your beneficiaries receive full benefits.\n\nThere are two main categories of life insurance policies: \n1. **Term Life Insurance**: Provides coverage for a specific period (e.g., 10, 20, or 30 years). If the policyholder dies during the coverage period, the beneficiaries receive the death benefit. If they outlive the term, the policy expires. Term life insurance is suitable for those with dependents or a mortgage and is generally the least expensive option.\n  \n2. **Permanent Life Insurance**: Provides coverage for the policyholder's whole life, as long as premiums are paid. This includes types such as:\n   - **Whole Life Insurance**: Does not expire and includes a cash value component.\n   - **Universal Life Insurance**: Offers lifetime coverage with flexible premium payment options and cash value growth.\n   - **Variable Life Insurance**: Includes cash value that can grow based on the performance of certain subaccounts.\n\nHaving life insurance is a way to ensure that your beneficiaries\u2014such as a spouse, children, or other family members\u2014are financially supported after your death. \n\nOverall, life insurance can provide peace of mind by ensuring a financial legacy for your loved ones.",
+                "refusal": null,
+                "role": "assistant",
+                "audio": null,
+                "function_call": null,
+                "tool_calls": null
+            }
+        }
+    ],
+    "created": 1733064822,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "service_tier": null,
+    "system_fingerprint": "fp_0705bf87c0",
+    "usage": {
+        "completion_tokens": 370,
+        "prompt_tokens": 4776,
+        "total_tokens": 5146,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+}
