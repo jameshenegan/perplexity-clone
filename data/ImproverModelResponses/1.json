@@ -1,12 +1,12 @@
 {
-    "id": "chatcmpl-AZmGt5dB6cATMgZNn8Qj4hWTNLChB",
+    "id": "chatcmpl-AZmIxUwLT45SMUSNiFfxIq2rh2fDT",
     "choices": [
         {
             "finish_reason": "stop",
             "index": 0,
             "logprobs": null,
             "message": {
-                "content": "Southern Farm Bureau Life Insurance Company offers a range of products and services, including:\n\n1. **Life Insurance Products**:\n   - **Permanent Life Insurance**: Options such as whole life, single premium, modified premium, and adjustable premium policies that provide lifelong coverage with different payment structures.\n   - **Term Life Insurance**: Available in 10, 20, and 30-year terms, offering cost-effective and time-bound coverage.\n\n2. **Financial Planning Services**:\n   - Assistance with estate and retirement planning, including both tax-qualified and non-qualified retirement plans, to help protect legacies and achieve long-term financial goals.\n\n3. **Additional Services**:\n   - Customized policies designed to support wealth transfer, debt repayment, and cover daily living expenses.",
+                "content": "Southern Farm Bureau Life Insurance Company began doing business in 1947.",
                 "refusal": null,
                 "role": "assistant",
                 "audio": null,
@@ -15,15 +15,15 @@
             }
         }
     ],
-    "created": 1733090399,
+    "created": 1733090527,
     "model": "gpt-4o-2024-08-06",
     "object": "chat.completion",
     "service_tier": null,
-    "system_fingerprint": "fp_831e067d82",
+    "system_fingerprint": "fp_7f6be3efb0",
     "usage": {
-        "completion_tokens": 152,
-        "prompt_tokens": 249,
-        "total_tokens": 401,
+        "completion_tokens": 14,
+        "prompt_tokens": 124,
+        "total_tokens": 138,
         "completion_tokens_details": {
             "accepted_prediction_tokens": 0,
             "audio_tokens": 0,

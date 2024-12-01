@@ -3,7 +3,26 @@
         "improvement_method": 0,
         "scores": [
             0,
-            28.0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "normalized_scores": [
+            0.2,
+            0.2,
+            0.2,
+            0.2,
+            0.2
+        ],
+        "sfblic_score": 0,
+        "normalized_sfblic_score": 0.2
+    },
+    {
+        "improvement_method": 1,
+        "scores": [
+            0,
+            10.0,
             0,
             0,
             0
@@ -15,26 +34,7 @@
             0.0,
             0.0
         ],
-        "sfblic_score": 0,
-        "normalized_sfblic_score": 0.0
-    },
-    {
-        "improvement_method": 1,
-        "scores": [
-            23.372397718732092,
-            9.0979598956895,
-            0,
-            0,
-            0
-        ],
-        "normalized_scores": [
-            0.7198072160545385,
-            0.2801927839454615,
-            0.0,
-            0.0,
-            0.0
-        ],
-        "sfblic_score": 23.372397718732092,
-        "normalized_sfblic_score": 0.7198072160545385
+        "sfblic_score": 10.0,
+        "normalized_sfblic_score": 1.0
     }
 ]

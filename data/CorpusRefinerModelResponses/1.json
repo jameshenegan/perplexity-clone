@@ -1,12 +1,12 @@
 {
-    "id": "chatcmpl-AZmGbwbXOqqDbqGpnhEXojzoQFEYU",
+    "id": "chatcmpl-AZmIrDXoXeXo4fYIqyhGdM4f06JZH",
     "choices": [
         {
             "finish_reason": "stop",
             "index": 0,
             "logprobs": null,
             "message": {
-                "content": "Southern Farm Bureau Life Insurance Company offers a variety of life insurance products, including:\n\n1. **Life Insurance Products:**\n   - **Permanent Life Insurance**: This includes whole life, single premium, modified premium, and adjustable premium options, providing lifelong coverage with various payment structures.\n   - **Term Life Insurance**: Available in 10, 20, and 30-year intervals for cost-effective, time-bound coverage.\n\n2. **Financial Planning Services**:\n   - Services for estate and retirement planning to protect legacies and support long-term goals.\n   - Tax-qualified and non-qualified retirement plans.\n\n3. **Additional Services**:\n   - Support for wealth transfer, debt repayment, and daily living costs through customized policies.",
+                "content": "Southern Farm Bureau Life Insurance Company was chartered in 1946 and began operations in 1947.",
                 "refusal": null,
                 "role": "assistant",
                 "audio": null,
@@ -15,15 +15,15 @@
             }
         }
     ],
-    "created": 1733090381,
+    "created": 1733090521,
     "model": "gpt-4o-mini-2024-07-18",
     "object": "chat.completion",
     "service_tier": null,
-    "system_fingerprint": "fp_3de1288069",
+    "system_fingerprint": "fp_0705bf87c0",
     "usage": {
-        "completion_tokens": 146,
+        "completion_tokens": 21,
         "prompt_tokens": 4783,
-        "total_tokens": 4929,
+        "total_tokens": 4804,
         "completion_tokens_details": {
             "accepted_prediction_tokens": 0,
             "audio_tokens": 0,
@@ -32,7 +32,7 @@
         },
         "prompt_tokens_details": {
             "audio_tokens": 0,
-            "cached_tokens": 4608
+            "cached_tokens": 0
         }
     }
 }
