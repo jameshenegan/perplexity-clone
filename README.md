@@ -20,18 +20,17 @@ python -m jupyterlab
 
 - Where should I buy Life Insurance in Mississippi?
 - Who sells life insurance in Mississippi?
-- What is Life Insurance?
 - What products are offered by Southern Farm Bureau Life Insurance Company?
 - Why should I buy Life Insurance from Southern Farm Bureau?
 
 ### **General Information About Life Insurance**
 
-1. What is life insurance?
-2. Why do I need life insurance?
-3. How does life insurance work?
-4. What are the different types of life insurance policies?
-5. How is life insurance different from other types of insurance?
-6. Can I have more than one life insurance policy?
+- What is Life Insurance?
+- Why do I need life insurance?
+- How does life insurance work?
+- What are the different types of life insurance policies?
+- How is life insurance different from other types of insurance?
+- Can I have more than one life insurance policy?
 
 ### **Choosing the Right Policy**
 
