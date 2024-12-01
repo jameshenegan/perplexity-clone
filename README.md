@@ -15,17 +15,14 @@ python -m jupyterlab
 
 - Add additional improvement methods
 - Improve the way that results are stored, accessed, and presented
-- Figure out how to compute visibility scores
-- Make it easier to identify the SFBLIC site
-- Only consider sites that have information relevant to the query
 
-## queries
+## List of queries
 
-Where should I buy Life Insurance in Mississippi?
-Who sells life insurance in Mississippi?
-What is Life Insurance?
-What products are offered by Southern Farm Bureau Life Insurance Company?
-Why should I buy Life Insurance from Southern Farm Bureau?
+- Where should I buy Life Insurance in Mississippi?
+- Who sells life insurance in Mississippi?
+- What is Life Insurance?
+- What products are offered by Southern Farm Bureau Life Insurance Company?
+- Why should I buy Life Insurance from Southern Farm Bureau?
 
 ### **General Information About Life Insurance**
 
