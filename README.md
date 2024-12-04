@@ -80,10 +80,14 @@ This repository is still in the early stages of development, but the notebooks a
 
 ## Additional Comments
 
-### What do generative engines offer?
+### Why might a user prefer a generative engine over a traditional search engine?
 
 A user may prefer to use a generative engine over traditional web search if (i) they have a specific question that may be answered by information that is available on the web (potentially scattered across multiple sites) and (ii) would prefer to receive a single answer to that question, instead of having to visit multiple sites to piece together the answer themselves.
 
+### The Hallucination Problem
+
 One of the main selling points behind generative engines is that they attempt to address the problem of [hallucinations](https://www.ibm.com/topics/ai-hallucinations). By summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to when composing a response.
+
+### Generative Engines and RAG
 
 In spirit, generative engines are somewhat related to [Retrieval-augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).   The main difference has to do with the set of documents that are searched.  While generative engines search the web, a RAG system will search a set of pre-defined documents.
