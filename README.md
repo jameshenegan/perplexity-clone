@@ -19,10 +19,38 @@ A simplified version of the process is as follows:
 
 - A user submits a query.
 - The traditional search engine retrieves links to sites that contain information to answer the query.
-- The LLM summarizes the information from those sites.
-- This summary is returned to the user.  
+- The LLM summarizes the information from those sites, attempting to provide an answer to the query.
+- This summary is returned to the user.
 
-One of the main selling points behind generative engines is as follows: by summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to [hallucinate](https://www.ibm.com/topics/ai-hallucinations) when composing a response.
+For example, if the user submits a query such as "Where should I buy life insurance in Mississippi?", then the following information might be gathered from the web:
+
+```json
+[
+            {
+                "link": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/life-insurance-and-annuities/",
+                "information": "To buy life insurance in Mississippi, it is advisable to consult with a life insurance agent or company. They can help you review your insurance needs and inform you about available policies. The Mississippi Insurance Department suggests that you consider the following steps:\n\n1. **Determine Your Needs**: Assess how much coverage you need and what you can afford to pay.\n2. **Seek Guidance**: An agent can provide insight into different types of policies and help you find one that best fits your requirements.\n3. **Policy Comparison**: Once you have decided which type of life insurance you need, compare similar policies from different companies to find the best value for your money.\n\nFor more detailed information, you can visit the official website of the Mississippi Insurance Department and access resources for consumers regarding life insurance."
+            },
+            {
+                "link": "https://www.mid.ms.gov/",
+                "information": "The best place to buy life insurance in Mississippi would be through the Mississippi Insurance Department's resources. They offer guidance on \"Life Insurance and Annuities,\" where consumers can find information on purchasing the right coverage and amount, as well as detecting deceptive sales practices. Additionally, the Mississippi Insurance Department provides a life insurance policy locator service to assist consumers in locating life insurance policies of deceased family members. For personalized assistance, you can request help by calling their Consumer Help Line at 800-562-2957 or 601-359-2453 for the Jackson area."
+            },
+            {
+                "link": "https://www.dfa.ms.gov/minnesota-life-insurance",
+                "information": "You should consider buying life insurance from Minnesota Life Insurance Company, which is an affiliate of Securian Financial. The State of Mississippi offers group term life insurance coverage for active full-time employees through this provider. For more information, you can call Minnesota Life at (888) 658-0193."
+            },
+]
+```
+
+The LLM then might use this information to compose the following response:
+```
+When considering purchasing life insurance in Mississippi, the recommended approach is to consult with a life insurance agent or company to help assess your insurance needs and explore available policies [1]. The Mississippi Insurance Department is a valuable resource, offering guidance on obtaining the appropriate coverage, comparing policies from different providers, and avoiding deceptive sales practices [2]. They also provide a life insurance policy locator service for consumers looking to find policies of deceased family members [2]. For personalized assistance, you may contact their Consumer Help Line [2]. Additionally, group term life insurance coverage is available for active full-time employees through the Minnesota Life Insurance Company, affiliated with Securian Financial [3].
+```
+
+### What do generative engines offer?
+
+A user may prefer to use a generative engine over traditional web search if (i) they have a specific question that may be answered by information that is available on the web (potentially scattered across multiple sites) and (ii) would prefer to receive a single answer to that question, instead of having to visit multiple sites to piece together the answer themselves.
+
+One of the main selling points behind generative engines is that they attempt to address the problem of [hallucinations](https://www.ibm.com/topics/ai-hallucinations). By summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to when composing a response.
 
 In spirit, generative engines are somewhat related to [Retrieval-augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).   The main difference has to do with the set of documents that are searched.  While generative engines search the web, a RAG system will search a set of pre-defined documents.
 
