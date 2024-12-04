@@ -43,7 +43,15 @@ For example, if the user submits a query such as "Where should I buy life insura
 
 The LLM then might use this information to compose the following response:
 ```
-When considering purchasing life insurance in Mississippi, the recommended approach is to consult with a life insurance agent or company to help assess your insurance needs and explore available policies [1]. The Mississippi Insurance Department is a valuable resource, offering guidance on obtaining the appropriate coverage, comparing policies from different providers, and avoiding deceptive sales practices [2]. They also provide a life insurance policy locator service for consumers looking to find policies of deceased family members [2]. For personalized assistance, you may contact their Consumer Help Line [2]. Additionally, group term life insurance coverage is available for active full-time employees through the Minnesota Life Insurance Company, affiliated with Securian Financial [3].
+When considering purchasing life insurance in Mississippi, the recommended approach
+is to consult with a life insurance agent or company to help assess your insurance needs
+and explore available policies [1]. The Mississippi Insurance Department is a valuable
+resource, offering guidance on obtaining the appropriate coverage, comparing policies
+from different providers, and avoiding deceptive sales practices [2]. They also provide
+a life insurance policy locator service for consumers looking to find policies of deceased
+family members [2]. For personalized assistance, you may contact their Consumer Help Line [2].
+Additionally, group term life insurance coverage is available for active full-time employees
+through the Minnesota Life Insurance Company, affiliated with Securian Financial [3].
 ```
 
 ### What do generative engines offer?
