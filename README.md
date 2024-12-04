@@ -54,7 +54,7 @@ Additionally, group term life insurance coverage is available for active full-ti
 through the Minnesota Life Insurance Company, affiliated with Securian Financial [3].
 ```
 
-Notice that is response contains citations (e.g., [1], [2], and [3]).  These citations allow us to compute **visibility scores** for the sites that are in the set of reference material that was used to generate the response.
+Notice that this response contains citations (e.g., [1], [2], and [3]).  These citations refer to the links in the set of reference material that was used to generate the response.  This allows us to compute **visibility scores** for the sites.
 
 ## What is the basic idea behind our experiment?
 
