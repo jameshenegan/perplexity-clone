@@ -8,7 +8,7 @@ Large companies such as Microsoft and Google have been in the process of rolling
 
 The purpose of the experiment is to see how different sets of **reference material** influence the **visibility metrics** of websites that get cited by a generative engine. In particular, we focus on improving the visibility metrics related to a particular website we have selected (SFBLIC).
 
-### What do generative engines do?
+## What do generative engines do?
 
 At a high level, a generative engine is composed of 
 
@@ -22,7 +22,7 @@ A simplified version of the process is as follows:
 - The LLM summarizes the information from those sites, attempting to provide an answer to the query.
 - This summary is returned to the user.
 
-For example, if the user submits a query such as "Where should I buy life insurance in Mississippi?", then the following information might be gathered from the web:
+For example, if the user submits a query such as "Where should I buy life insurance in Mississippi?", then the following **set of reference material** might be gathered from the web:
 
 ```json
 [
@@ -54,13 +54,11 @@ Additionally, group term life insurance coverage is available for active full-ti
 through the Minnesota Life Insurance Company, affiliated with Securian Financial [3].
 ```
 
-### What do generative engines offer?
+Notice that is response contains citations (e.g., [1], [2], and [3]).  These citations allow us to compute **visibility scores** for the sites that are in the set of reference material that was used to generate the response.
 
-A user may prefer to use a generative engine over traditional web search if (i) they have a specific question that may be answered by information that is available on the web (potentially scattered across multiple sites) and (ii) would prefer to receive a single answer to that question, instead of having to visit multiple sites to piece together the answer themselves.
+## What is the basic idea behind our experiment?
 
-One of the main selling points behind generative engines is that they attempt to address the problem of [hallucinations](https://www.ibm.com/topics/ai-hallucinations). By summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to when composing a response.
-
-In spirit, generative engines are somewhat related to [Retrieval-augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).   The main difference has to do with the set of documents that are searched.  While generative engines search the web, a RAG system will search a set of pre-defined documents.
+We want to investigate how **different sets of reference material** influence the **visibility scores** for the websites that are cited in the response from a generative engine.  The purpose of the experiment is to understand how we can improve the content of a site so that its generative engine visibility score will be optimized.  
 
 ## Code 
 
@@ -79,3 +77,13 @@ This repository is still in the early stages of development, but the notebooks a
 
 - Due to the [black box](https://en.wikipedia.org/wiki/Black_box) nature of commercially available generative engines, we have had to make certain assumptions about how they actually work behind the scenes.  We may be making some incorrect assumptions.
 - Due to a scarcity of resources, the generative engine that we are using in the experiment is less sophisticated than the ones seen in the wild.
+
+## Additional Comments
+
+### What do generative engines offer?
+
+A user may prefer to use a generative engine over traditional web search if (i) they have a specific question that may be answered by information that is available on the web (potentially scattered across multiple sites) and (ii) would prefer to receive a single answer to that question, instead of having to visit multiple sites to piece together the answer themselves.
+
+One of the main selling points behind generative engines is that they attempt to address the problem of [hallucinations](https://www.ibm.com/topics/ai-hallucinations). By summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to when composing a response.
+
+In spirit, generative engines are somewhat related to [Retrieval-augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).   The main difference has to do with the set of documents that are searched.  While generative engines search the web, a RAG system will search a set of pre-defined documents.
