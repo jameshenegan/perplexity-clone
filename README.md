@@ -1,21 +1,19 @@
 # Experiment involving a Perplexity Clone
 
-## Development
+The purpose of this repository is to record some ideas related to an experiment involving [Generative Engine Optimization (GEO)](https://arxiv.org/abs/2311.09735).
 
-### Activate the virtual environment and open JupyterLab
+Large companies such as [Microsoft](https://blogs.bing.com/search/July-2024/generativesearch) and [Google](https://blog.google/products/search/generative-ai-search/) have been in the process of rolling out generative engines since at least 2023, while newer companies such as [Perplexity AI](https://en.wikipedia.org/wiki/Perplexity_AI) have been speciliazing in generative engines.
 
-```
-cd perplexity-clone/bin
-source activate
-cd ../..
-python -m jupyterlab
-```
+Briefly, the purpose of the experiment is to see how different sets of reference material influence the visibility metrics of websites that get sited by a generative engine.
+
+## Notebooks
+
+The notebooks are a good place to get started if you want to see what we're doing with our experiment.
+
+- [Perplexity Clone](notebooks/perplexity-clone.ipynb): This notebook walks through the basics of what a generative engine does.
+- [Single Trial of Experiment](notebooks/run-through-single-trial-of-experiment.ipynb): This notebook walks though a single trial of an experiment.
 
 ## Next Steps
 
 - Add additional improvement methods
 - Improve the way that results are stored, accessed, and presented
-
-## Purpose of Experiment
-
-The purpose of the experiment is to **evaluate and optimize the visibility of SFBLIC within generative search engine results.**
