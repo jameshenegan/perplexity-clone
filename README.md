@@ -2,7 +2,7 @@
 
 The purpose of this repository is to record some ideas related to an experiment involving [Generative Engine Optimization (GEO)](https://arxiv.org/abs/2311.09735).
 
-Large companies such as [Microsoft](https://blogs.bing.com/search/July-2024/generativesearch) and [Google](https://blog.google/products/search/generative-ai-search/) have been in the process of rolling out generative engines since at least 2023, while newer companies such as [Perplexity AI](https://en.wikipedia.org/wiki/Perplexity_AI) have been speciliazing in the development of generative engines.
+Large companies such as Microsoft and Google have been in the process of rolling out generative engines since at least 2023 with products such as [Bing Generative Search](https://blogs.bing.com/search/July-2024/generativesearch) and [Google AI Search Labs](https://blog.google/products/search/generative-ai-search/). Meanwhile, newer companies such as [Perplexity AI](https://en.wikipedia.org/wiki/Perplexity_AI) have been speciliazing in the development of generative engines.
 
 The purpose of the experiment is to see how different sets of **reference material** influence the **visibility metrics** of websites that get sited by a generative engine. In particular, we focus on improving the visibility metrics related to a particular website we have selected.
 
