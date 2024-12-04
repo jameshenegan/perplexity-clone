@@ -10,7 +10,12 @@ The purpose of the experiment is to see how different sets of **reference materi
 
 ### What do generative engines do?
 
-At a high level, a generative engine is composed of a **traditional search engine** that searches the web and a **large language model** (LLM).  A user interacts with the generative engine by submitting a query.  The traditional search engine retrieves links to sites that contain information to answer the query, and the LLM summarizes the information from those sites.  This summary is returned to the user.  
+At a high level, a generative engine is composed of a **traditional search engine** that searches the web and a **large language model** (LLM).  
+
+- A user interacts with the generative engine by submitting a query.
+- The traditional search engine retrieves links to sites that contain information to answer the query.
+- The LLM summarizes the information from those sites.
+- This summary is returned to the user.  
 
 One of the main selling points behind generative engines is as follows: by summarizing information retrieved from sites relevant to the user's query, the LLM will be less likely to [hallucinate](https://www.ibm.com/topics/ai-hallucinations) when composing a response.
 
